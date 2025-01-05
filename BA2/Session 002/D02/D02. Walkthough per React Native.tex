@@ -1,0 +1,610 @@
+\documentclass[12pt]{beamer}
+\usetheme{copenhagen}
+\usepackage{ifxetex,ifluatex}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[catalan,spanish,english]{babel}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{array}
+\usepackage{amsmath,amssymb,amsfonts,amsthm,mathrsfs,amsbsy}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{verbatim}
+\usepackage{dsfont}
+\usepackage[all]{xy}
+\usepackage{hyperref}
+\usepackage{layout}
+\usepackage{array}
+\usepackage{float}
+\usepackage{xypic}
+\usepackage{tikz,ifthen}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{ragged2e}
+\usepackage[3D]{movie15}
+
+\title{02. Walkthrough of React Native Project}
+\author{Xavi Lara - Profesor I.Sabadell xlara@ies-sabadell.cat}
+\institute{\includegraphics[scale=0.5]{LogoInstitut.png}}
+\date{}
+
+\begin{document}
+	\begin{frame}
+		\maketitle
+	\end{frame}
+	\section{1. Exploració Projecte React Native amb Expo per Defecte}
+	\subsection{1.1. Iniciem el projecte firstapp}
+	\subsubsection{1.1.1. Iniciem el projecte Expo}
+	\begin{frame}
+		\begin{block}{}
+			Iniciem el recurregut per les parts del projecte creat amb la comanda \textbf{o} un com hem iniciat Expo.
+		\end{block}
+		\centering\includegraphics[width=11cm]{Inicio.png}
+	\end{frame}
+	\subsection{1.2. Dependencies al Package.json}
+	\subsubsection{1.2.1. Package.json}
+	\begin{frame}
+		\centering\includegraphics[height=8cm]{ProjectDefault01.png}
+	\end{frame}
+	\subsection{1.3. TabLayout, Index i Explore}
+	\subsubsection{1.3.1. TabLayout}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault02.png}
+	\end{frame}
+	\subsubsection{1.3.2. Index}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault03.png}
+	\end{frame}
+	\subsubsection{1.3.3. Explore}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault04.png}
+	\end{frame}
+	\subsection{1.4. Constants com Recursos Fixos}
+	\subsubsection{1.3.3. Constants}
+	\begin{frame}
+		\centering\includegraphics[width=7cm]{ProjectDefault05.png}
+	\end{frame}
+	\subsection{1.5. Components Utilitzats al Projecte}
+	\subsubsection{1.5.1. Component HelloWave}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault06.png}
+	\end{frame}
+	\subsubsection{1.5.2. Component Collapsible}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault07.png}
+	\end{frame}
+	\subsubsection{1.5.3. ComponentExternalLink}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault09.png}
+	\end{frame}
+	\subsubsection{1.5.4. Component ThemedTest}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectDefault08.png}
+	\end{frame}
+	\section{2. La Nostra Primera Aplicació React Native Bàsica}
+	\subsection{2.0. Desenvolupament Online amb Snack Expo Dev}
+	\subsubsection{2.0.1. Snack Expo Dev Project}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{SnackExpoDev.png}
+	\end{frame}
+	\subsection{2.1. Iniciem un Projecte React Native en Blanc}
+	\subsubsection{2.1.1. Comand per crear un Projecte React Native desde Zero}
+	\begin{frame}
+		\begin{block}{}
+			Al iniciar els projectes podem escollir la plantilla inicial per l'aplicació que vulguem desenvolupar.
+		\end{block}
+		\centering\includegraphics[width=10cm]{ProjectBlank01.png}\\
+	\end{frame}
+	\subsubsection{2.1.2. Altres posibles plantilles per React Native}
+	\begin{frame}
+		\begin{block}{Altres possibles plantiles per React Native}
+			Los mas comunes son los siguientes:
+			\begin{itemize}
+				\item \texttt{tabs} Projecte amb navegació de React Navigation.
+				\item \texttt{blank-typescript} Plantilla buida amb TypeScript.
+				\item \texttt{tabs-typescript} Plantilla amb React Navigation i TypeScript. 
+				\item \texttt{minimal} Menys dependencies que \texttt{blank}.
+				\item \texttt{bare-minimum} Plantilla que et permet tenir accés directe a la configuració nativa per a Android i iOS (ideal per a integracions més personalitzades)
+				\item Busqueu per les comunitats d'internet.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.1.3. Plantilles Personalitzades desde GitHub}
+	\begin{frame}
+		\begin{block}{Plantilles Personalitzades desde GitHub}
+			Expo té un enfocament minimalista, per això solen centrar-se en plantilles com blank, tabs i les variants amb TypeScript.
+			\begin{center}
+				\includegraphics[width=10cm]{TemplatePersonalizadoGitHub.png}
+			\end{center}		
+			A més, és possible crear i utilitzar plantilles personalitzades allotjades a GitHub o repositoris locals. Per a això, pots especificar la URL del repositori de GitHub o altres en lloc de fer servir un nom predefinit als templates d'Expo.
+		\end{block}
+	\end{frame}
+	\subsubsection{2.1.4. Iniciem el Projecte en Blanc i Veiem les Opcions}
+	\begin{frame}
+		\centering\includegraphics[width=9cm]{ProjectBlank02.png}\\
+	\end{frame}
+	\subsubsection{2.1.5. Projecte en blanc amb un Text dintre d'una View}
+	\begin{frame}
+		\centering\includegraphics[width=11cm]{ProjectBlank03.png}\\
+	\end{frame}
+	\subsubsection{2.1.6. Dependencies del Projecte en blanc}
+	\begin{frame}
+		\centering\includegraphics[width=11cm]{ProjectBlank05.png}\\
+	\end{frame}
+	\subsubsection{2.1.7. Afegim Dependencies Web al Projecte Blank}
+	\begin{frame}
+		\begin{block}{Afegim Dependencies Web al Projecte Blank}
+			 Amb les següents comandes afegim les dependencies de \textbf{react-dom}, \textbf{react-native-web} i \textbf{@expo/metro-runtime}.
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank06.png}\\
+	\end{frame}
+	\subsection{2.2. Components Bàsics}
+	\subsubsection{2.2.0. Llista de Components Bàsics}
+	\begin{frame}
+		\begin{block}{Alguns componentes bàsics de React Native}
+			\begin{enumerate}
+				\item Contenidors: \textcolor{blue}{\texttt{View}, \texttt{SafeAreaView}, \texttt{KeyboardAvoidingView}} 
+				\item Text i dades: \textcolor{blue}{\texttt{Text}, \texttt{TextInput}}
+				\item Botons i interaccions: \textcolor{blue}{\texttt{Button}, \texttt{Touchable}, \texttt{Pressable}}
+				\item Llistes i desplaçaments: \textcolor{blue}{\texttt{ScrollView}, \texttt{FlatList}, \texttt{SectionList}, \texttt{RefreshControl}}
+				\item Imatges i fons: \textcolor{blue}{\texttt{Image}, \texttt{ImageBackground}}
+				\item Indicadors i estats: \textcolor{blue}{\texttt{ActivityIndicator}, \texttt{Switch}}
+				\item Modals: \textcolor{blue}{\texttt{Modal}}
+				\item Personalització visual: \textcolor{blue}{\texttt{StatusBar}, \texttt{Picker}, \texttt{Slider}, \texttt{CheckBox}}
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.2.1. View y Text}
+	\begin{frame}
+		\begin{block}{\texttt{View}}
+			\begin{itemize}
+				\item Contenidor bàsic per a elements de la interfície.
+				\item Funciona com el \texttt{div} a HTML.
+				\item Utilitzat per organitzar la disposició dels elements.
+			\end{itemize}
+		\end{block}
+		\begin{block}{\texttt{Text}}
+			\begin{itemize}
+				\item Per mostrar text a la pantalla.
+				\item Permet estilitzar fonts, mides, colors, etc.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.2.1. View i Text Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank07.png}
+	\end{frame}
+	\subsubsection{2.2.2. TextInput}
+	\begin{frame}
+		\begin{block}{\texttt{TextInput}}
+			Per introduir dades des de l'usuari.
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank31.png}
+	\end{frame}
+	\subsubsection{2.2.3. Touchable}
+	\begin{frame}
+		\begin{block}{\texttt{Toucheble}}
+			\begin{itemize}
+				\item Per crear àrees interactives que responen a interaccions.
+				\item Variants: \texttt{TouchableOpacity}, \texttt{TouchableHighlight}, \texttt{TouchableWithoutFeedback}.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank30.png}
+	\end{frame}
+	\subsubsection{2.2.3. Button, Pressable}
+	\begin{frame}
+		\begin{block}{\texttt{Button} i \texttt{Pressable}}
+			\texttt{Pressable} es més flexible que \texttt{Touchable}.
+		\end{block}
+		\centering\includegraphics[width=9cm]{ProjectBlank33.png}
+	\end{frame}
+	\subsubsection{2.2.4. Image i ImageBackground}
+	\begin{frame}
+		\begin{block}{\texttt{Image} i \texttt{ImageBackground}}
+			\texttt{Image} per mostrar imatges (localment o des d'URL).\\
+			\texttt{ImageBackground} per establir una imatge com a fons.
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank32.png}
+	\end{frame}
+	\subsubsection{2.2.5. ScrollView}
+	\begin{frame}
+		\begin{block}{\texttt{ScrollView}}
+			\begin{itemize}
+				\item Contenidor bàsic per a elements de la interfície.
+				\item Funciona com el \texttt{div} a HTML.
+				\item Utilitzat per organitzar la disposició dels elements.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.2.6. FlatList}
+	\begin{frame}
+		\begin{block}{\texttt{FlatList}}
+			\begin{itemize}
+				\item Per renderitzar grans llistes de forma optimitzada.
+				\item Només renderitza els elements visibles.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank34.png}
+	\end{frame}
+	\subsubsection{2.2.7. SelectionList}
+	\begin{frame}
+		\begin{block}{\texttt{SelectionList}}
+			\begin{itemize}
+				\item Permet gestionar llistes optimitzades amb suport per seccions.
+				\item Similar a \texttt{FlatList}, però organitza ítems per grups (seccions).
+				\item Ofereix opcions personalitzades per a capçaleres i elements de cada secció.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank34.png}
+	\end{frame}
+	\subsubsection{2.2.11. Modal}
+	\begin{frame}
+		\begin{block}{\texttt{Modal}}
+			\begin{itemize}
+				\item Mostra una finestra emergent a sobre de la interfície.
+				\item Ideal per a diàlegs, alertes o confirmacions.
+				\item Inclou suport per animacions com \texttt{slide}, \texttt{fade} o \texttt{none}.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	\subsubsection{2.2.12. ActivityIndicator}
+	\begin{frame}
+		\begin{block}{\texttt{ActivityIndicator}}
+			\begin{itemize}
+				\item Mostra un indicador de càrrega (spinner).
+				\item Es pot personalitzar amb mides i colors.
+				\item Ideal per mostrar a l'usuari que hi ha una acció en curs.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	\subsubsection{2.2.13. KeyboardAvoidingView}
+	\begin{frame}
+		\begin{block}{\texttt{KeyboardAvoidingView}}
+			\begin{itemize}
+				\item Permet ajustar la interfície quan el teclat virtual apareix.
+				\item Evita que els camps de text o altres elements quedin ocults sota el teclat.
+				\item Suporta modes com \texttt{padding} o \texttt{position} per adaptar l'estil.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.14. SafeAreaView}
+	\begin{frame}
+		\begin{block}{\texttt{SafeAreaView}}
+			\begin{itemize}
+				\item Gestiona zones segures a dispositius amb notch o vores corbades.
+				\item Garanteix que el contingut no es mostri fora dels límits segurs.
+				\item Especialment útil per dissenys d'iOS.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.15. Switch}
+	\begin{frame}
+		\begin{block}{\texttt{Switch}}
+			\begin{itemize}
+				\item Permet implementar un commutador simple (on/off).
+				\item Es pot personalitzar amb colors actius i inactius.
+				\item Ideal per activar o desactivar configuracions.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.16. Picker}
+	\begin{frame}
+		\begin{block}{\texttt{Picker}}
+			\begin{itemize}
+				\item Mostra una llista d'opcions per seleccionar un element.
+				\item Funciona com un menú desplegable.
+				\item Suporta estils diferents segons la plataforma (dial a iOS, menú a Android).
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.17. StatusBar}
+	\begin{frame}
+		\begin{block}{\texttt{StatusBar}}
+			\begin{itemize}
+				\item Permet personalitzar l'aspecte de la barra d'estat (color, estil de text, etc.).
+				\item Es pot fer invisible o canviar-ne la transparència.
+				\item Configurable independentment per cada pantalla.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.19. RefreshControl}
+	\begin{frame}
+		\begin{block}{\texttt{RefreshControl}}
+			\begin{itemize}
+				\item Afegeix la funcionalitat de "pull-to-refresh" a \texttt{ScrollView} o \texttt{FlatList}.
+				\item Indica visualment que s'està recarregant contingut.
+				\item Es pot personalitzar el color i l'animació del refresc.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.20. Slider}
+	\begin{frame}
+		\begin{block}{\texttt{Slider}}
+			\begin{itemize}
+				\item Permet ajustar un valor dins d'un rang.
+				\item Configurable amb mínim, màxim i passos personalitzats.
+				\item Útil per ajustar opcions com el volum o la brillantor.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	
+	\subsubsection{2.2.21. CheckBox}
+	\begin{frame}
+		\begin{block}{\texttt{CheckBox}}
+			\begin{itemize}
+				\item Permet seleccionar opcions binàries (marcat o desmarcat).
+				\item Compatible amb Android i iOS mitjançant llibreries externes.
+				\item Es pot personalitzar l'aspecte i el comportament.
+			\end{itemize}
+		\end{block}
+		\centering\includegraphics[width=11cm]{ProjectBlank33.png}
+	\end{frame}
+	\subsection{2.3. Components amb Estils Comuns}
+	\subsubsection{2.3.1. Aplicació d'Estils}
+	\begin{frame}
+		\begin{block}{Ús de \texttt{StyleSheet}}
+			\texttt{StyleSheet.create} es una manera optimitzada de crear estils a React Native. Tot i que pots aplicar estils com un objecte JavaScript normal, \texttt{StyleSheet.create} ofereix millors optimitzacions de rendiment.
+		\end{block}
+		\centering\includegraphics[width=10cm]{ProjectBlank08.png}
+	\end{frame}
+	\subsubsection{2.3.2. Ús de StyleSheet}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank13.png}
+	\end{frame}
+	\subsubsection{2.3.3. Diferències respecte a CSS}
+	\begin{frame}
+		\begin{block}{Diferències clau respecte a CSS}
+			A React Native, s'utilitzen estils similars als de CSS, però amb algunes diferències:
+			
+			\begin{enumerate}
+				\item CamelCase en comptes de kebab-case\\(e.g., backgroundColor en comptes de background-color).
+				\item No s’utilitzen unitats: Els valors numèrics no necessiten px, \%, o altres unitats.
+				\item Flexbox per a la distribució dels elements.
+				\item No hi ha herència d'estils, cada component té els seus explícits.
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.3.4. Propietats d'Estil Comunes: Dimensions i Colors}
+	\begin{frame}
+		\begin{block}{Propietats d'Estil Comuns}
+			\begin{enumerate}
+				\item \textbf{Dimensions} Defineix la mida i disposició dels elements.
+					\begin{itemize}
+						\item \texttt{width} Amplada del component.
+						\item \texttt{height} Alçada del component.
+						\item \texttt{maxWidth}/\texttt{maxHeight}/\texttt{minWidth}/\texttt{minHeight} Defineixen la mida màxima/mínima del component.
+					\end{itemize}
+				\item \textbf{Color i fons}.
+					\begin{itemize}
+						\item \texttt{backgroundColor} Defineix el color de fons.
+						\item \texttt{color} Canvia el color del text en components com \texttt{Text}.
+					\end{itemize}
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.3.4. Propietats d'Estil Comunes: Dimensions i Colors Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank14.png}
+	\end{frame}
+	\subsubsection{2.3.5. Propietats d'Estil Comunes: Tipografia}
+	\begin{frame}
+		\begin{block}{Propietats d'Estil Comunes S'HA DE MILLORAR}
+			\begin{enumerate}
+				\item \textbf{Tipografia}.
+				\begin{itemize}
+					\item \texttt{fontSize} Mida de la font.
+					\item \texttt{fontWeight} Gruix del text(\texttt{normal}, \texttt{bold}, \texttt{100}$-$\texttt{900})
+					\item \texttt{textAlign} Alineació del text (\texttt{left}, \texttt{center}, \texttt{right}).
+					\item \texttt{lineHeight} Alçada de la línia del text.
+					\item \texttt{fontFamily} Defineix la font a utilitzar\\ (com \texttt{Arial}, \texttt{Roboto}, etc).
+					\item \texttt{textDecorationLine} Afegeix decoració al text, com ara subratllat o línia a través\\ (\texttt{underline}, \texttt{line-through})
+				\end{itemize}
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.3.5. Propietats d'Estil Comunes: Tipografia Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank15.png}
+	\end{frame}
+	\subsubsection{2.3.6. Propietats d'Estil Comunes: Marge i farcit (Spacing)}
+	\begin{frame}
+		\begin{block}{Propietats d'Estil Comunes}
+			\begin{enumerate}
+				\item \textbf{Marge i farcit (Spacing)}.
+				\begin{itemize}
+					\item \texttt{margin} Afegeix espai al voltant d'un component.
+					\item \texttt{padding} Afegeix espai dins d'un component, entre el seu contingut i la seva vora.
+					\item Valors individuals:
+					\begin{itemize}
+						\item \texttt{marginTop}, \texttt{marginBottom}, \texttt{marginLeft}, \texttt{marginRight} Ajusta el marge en cada direcció.
+						\item \texttt{paddingTop}, \texttt{paddingBottom}, \texttt{paddingLeft}, \texttt{paddingRight} Ajusta el farcit en cada direcció.
+					\end{itemize}
+				\end{itemize}
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.3.6. Propietats d'Estil Comunes: Marge i farcit (Spacing) Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank16.png}
+	\end{frame}
+	\subsubsection{2.3.7. Propietats d'Estil Comunes: Bordes}
+	\begin{frame}
+		\begin{block}{Propietats 'Estil Comunes}
+			\begin{enumerate}
+				\item \textbf{Bordes}.
+				\begin{itemize}
+					\item \texttt{borderWidth} Gruix de la vora.
+					\item \texttt{borderColor} Color de la vora.
+					\item \texttt{borderRadius} Crea vores arrodonides
+				\end{itemize}
+			\end{enumerate}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.3.7. Propietats d'Estil Comunes: Bordes Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank17.png}
+	\end{frame}
+	\subsection{2.4. Components Flexbox}
+	\subsubsection{2.4.0. Teoria dels components Flexbox}
+	\begin{frame}
+		\begin{block}{Flex, Components Flexbox}
+			El sistema de disseny flexible basat en Flexbox, \textbf{Flex} es una eina molt poderosa per crear interfícies d'usuari adaptables i distribuïdes de manera eficient en diferents mides de pantalla.
+		\end{block}
+	\end{frame}
+	\subsubsection{2.4.1. FlexDirection}
+	\begin{frame}
+		\begin{block}{Conceptes Clau de Flexbox a React Native}
+			\texttt{\bf{flexDirection}} Defineix la direcció en què es distribueixen els elements fills dins d'un contenidor. Els valors més comuns són:
+			\begin{itemize}
+				\item \texttt{row} Col$\cdot$loca els elements horitzontalment.
+				\item \texttt{column} Col$\cdot$loca els elements verticalment.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.4.1. FlexDirection Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank09.png}		
+	\end{frame}
+	\subsubsection{2.4.2. Flex}
+	\begin{frame}
+		\begin{block}{Conceptes Clau de Flexbox a React Native}
+			\texttt{\bf{Flex}} Estableix quant d'espai ha d'ocupar un element dins del seu contenidor pare, d'acord amb l'espai disponible.\\
+			Si diversos elements tenen un valor de flex, l'espai disponible es dividirà proporcionalment entre ells.
+			\begin{itemize}
+				\item Un valor més gran de \texttt{flex} significa que aquest element ocuparà més espai relatiu.
+				\item Si no s'especifica \texttt{flex}, l'element ocuparà només la mida del seu contingut.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.4.2. Flex Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank10.png}
+	\end{frame}
+	\subsubsection{2.4.3. JustifyContent}
+	\begin{frame}
+		\begin{block}{Conceptes Clau de Flexbox a React Native}
+			\texttt{\bf{justifyContent}} Defineix com es distribueixen els elements al llarg de l'eix principal (el definit per\texttt{flexDirection}). Valors comuns:
+			\begin{itemize}
+				\item \texttt{flex-start} Alinea els elements al principi de l'eix.
+				\item \texttt{center} Alinea els elements al centre.
+				\item \texttt{flex-end} Alinea els elements al final.
+				\item \texttt{space-between} Distribueix els elements amb el màxim espai possible entre ells.
+				\item \texttt{space-around} Distribueix els elements amb un espai igual al voltant de cada una.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.4.3. JustifyContent Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank11.png}
+	\end{frame}
+	\subsubsection{2.4.4. AlignItems}
+	\begin{frame}
+		\begin{block}{Conceptes Clau de Flexbox a React Native}
+			\texttt{\bf{alignItems}} Controla com s'alineen els elements al llarg de l'eix secundari (perpendicular al definit per \texttt{flexDirection}).Valors comuns:
+			\begin{itemize}
+				\item \texttt{flex-start} Alinea els elements al principi de l'eix secundari.
+				\item \texttt{center} Alinea els elements al centre de l'eix secundari.
+				\item \texttt{flex-end} Alinea els elements al final.
+				\item \texttt{stretch} Estira els elements perquè omplia tot l'espai disponible a l'eix secundari.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsubsection{2.4.4. AlignItems Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank12.png}
+	\end{frame}
+	\section{3. Complexitat de les Possibilitats d'Estils}
+	\subsection{3.1. Combinació d'Estils}
+	\subsubsection{3.1.1. Combinació d'Estils}
+	\begin{frame}
+		\begin{block}{Combinació d'Estils}
+			React Native permet combinar múltiples objectes d'estil en un mateix component. Això és útil quan vols aplicar diversos estils que poden estar separats lògicament però que es poden fusionar quan s'apliquen a un mateix element.\\
+		\end{block}
+		\begin{block}{}
+			Per aplicar diversos estils a un component, podem utilitzar una matriu a la propietat \texttt{style}
+		\end{block}
+	\end{frame}
+	\subsubsection{3.1.1. Combinació d'Estils Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank18.png}
+	\end{frame}
+	\subsection{3.2. Estils per a Plataformes Específiques}
+	\subsubsection{3.2.1. Platform.select()}
+	\begin{frame}
+		\begin{block}{}
+			A React Native es pot crear estils específics per a cada plataforma (iOS, Android, Web, etc) amb l'objecte \texttt{Platform}, útil per aplicar estils diferents a causa de diferències de disseny o comportament entre les plataformes.
+		\end{block}
+		\begin{block}{Ús de \texttt{Platform.select()}}
+				\texttt{Platform.select()} et permet definir estils diferents per a cada plataforma en un mateix bloc de codi. Accepta un objecte amb clau de plataforma \texttt{ios}, \texttt{android} i \texttt{web}.
+		\end{block}
+		\begin{block}{\texttt{Platform.OS} i \texttt{Platform.Version}}
+		Es pots fer ús de \texttt{Platform.OS} per aplicar condicionalment certs estils dins del component i amb \texttt{Platform.Version} es pot accedir a la versió específica del sistema operatiu i fer condicions basades en ella.
+		\end{block}
+	\end{frame}
+	\subsubsection{3.2.1. Platform.select() Mostra}
+	\begin{frame}
+		\centering\includegraphics[width=10cm]{ProjectBlank19.png}
+	\end{frame}
+	\subsection{3.3. Estils Dinàmics segons Estats}
+	\subsubsection{3.3.1. Estils segons estat}
+	\begin{frame}
+		\begin{block}{Canviar l'estil segons l'estat \texttt{useState}}
+			Es pot utilitzar una variable d'estat (isActive) per canviar l'estil del text i el color de fons d'un botó.
+		\end{block}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank20.png}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank21.png}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank22.png}
+	\end{frame}
+	\subsubsection{3.3.2. Estils segons estat}
+	\begin{frame}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank23.png}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank24.png}
+		\centering\includegraphics[height=5.5cm]{ProjectBlank25.png}
+	\end{frame}
+	\subsection{3.4. Estils Dinàmics Funcionals i Condicionals}
+	\subsubsection{3.4.1. Estil funcionals}
+	\begin{frame}
+		\begin{block}{Funcions d'Estils i Estils Condicionals}
+			Es poden fer funció per generar estils segons valors.\\
+			També fer condicions als diccionaris d'estils.
+		\end{block}
+		\centering\includegraphics[width=9cm]{ProjectBlank27.png}
+	\end{frame}
+	\subsubsection{3.4.2. Estil condicionals}
+	\begin{frame}
+		\centering\includegraphics[width=9cm]{ProjectBlank26.png}
+	\end{frame}
+	\subsection{3.4. Estils Dinàmics Animats}
+	\subsubsection{3.4.1. Estils Animats}
+	\begin{frame}
+		\begin{block}{Estils animats amb \texttt{Animated.timing}}
+			Combinem animacions i estils dinàmics amb \texttt{Animated}.
+		\end{block}
+		\centering\includegraphics[width=9cm]{ProjectBlank28.png}
+	\end{frame}
+	\subsubsection{3.4.2. Estils Animats Oscilanció}
+	\begin{frame}
+		\begin{block}{\texttt{Animated.loop} i \texttt{Animated.sequence}}
+			Amb aquestes funcions podem elaborar més les animacions.
+		\end{block}
+		\centering\includegraphics[width=9cm]{ProjectBlank29.png}
+	\end{frame}
+	
+\end{document}

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.3)  4 JAN 2025 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.3)  4 JAN 2025 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./D01. Instalació de l'entorn per React Native.tex"
-(D01. Instalació de l'entorn per React Native.tex
+**"./D02. Walkthough per React Native.tex"
+(D02. Walkthough per React Native.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Program Files\MiKTeX\tex/latex/beamer\beamer.cls
@@ -1217,20 +1217,9 @@ Package: fp-eval 1995/04/03
 \@MXV@iiidoncurpage=\count420
 \@MXV@inputlineno=\count421
 )
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 33.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 33.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 33.
-
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
 3.
+
 (C:\Program Files\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1239,8 +1228,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count422
 \l__pdf_internal_box=\box136
 )
-(D01. Instalació de l'entorn per React Native.aux)
-\openout1 = `"D01. Instalació de l'entorn per React Native.aux"'.
+(D02. Walkthough per React Native.aux)
+\openout1 = `"D02. Walkthough per React Native.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -1318,10 +1307,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 33.
 
-(D01. Instalació de l'entorn per React Native.out)
-(D01. Instalació de l'entorn per React Native.out)
+(D02. Walkthough per React Native.out) (D02. Walkthough per React Native.out)
 \@outlinefile=\write6
-\openout6 = `"D01. Instalació de l'entorn per React Native.out"'.
+\openout6 = `"D02. Walkthough per React Native.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 33.
@@ -1451,30 +1439,8 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
 Package xypdf Info: Line width: 0.39998pt on input line 33.
 
-(D01. Instalació de l'entorn per React Native.nav)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 33.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
-
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 33--33
- [][][][] []  
- []
-
-
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 36--36
- [][][][] []  
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 36.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 36.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
-<LogoInstitut.png, id=64, 593.3367pt x 55.6479pt>
+(D02. Walkthough per React Native.nav)
+<LogoInstitut.png, id=92, 593.3367pt x 55.6479pt>
 File: LogoInstitut.png Graphic file (type png)
 <use LogoInstitut.png>
 Package pdftex.def Info: LogoInstitut.png  used on input line 36.
@@ -1484,471 +1450,669 @@ Overfull \hbox (5.37775pt too wide) in paragraph at lines 36--36
  [][]  
  []
 
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
 [1{C:/Users/ies/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fi
-les/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvip
-s/lm/lm-mathsy.enc}
+les/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
  <./LogoInstitut.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 48--48
- [][][][] []  
- []
+<Inicio.png, id=141, 1434.86063pt x 771.63281pt>
+File: Inicio.png Graphic file (type png)
+<use Inicio.png>
+Package pdftex.def Info: Inicio.png  used on input line 45.
+(pdftex.def)             Requested size: 312.9803pt x 168.31152pt.
 
-<React-vs-React-Native.png, id=114, 601.4972pt x 253.69781pt>
-File: React-vs-React-Native.png Graphic file (type png)
-<use React-vs-React-Native.png>
-Package pdftex.def Info: React-vs-React-Native.png  used on input line 48.
-(pdftex.def)             Requested size: 180.45055pt x 76.10992pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 45--45
+ [][] 
  []
 
 [2
 
- <./React-vs-React-Native.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 55--55
- [][][][] []  
- []
+ <./Inicio.png>]
+<ProjectDefault01.png, id=192, 635.37375pt x 691.08188pt>
+File: ProjectDefault01.png Graphic file (type png)
+<use ProjectDefault01.png>
+Package pdftex.def Info: ProjectDefault01.png  used on input line 50.
+(pdftex.def)             Requested size: 209.26678pt x 227.62204pt.
 
-<ReactfoiOSandAndroid.png, id=159, 733.74126pt x 458.71375pt>
-File: ReactfoiOSandAndroid.png Graphic file (type png)
-<use ReactfoiOSandAndroid.png>
-Package pdftex.def Info: ReactfoiOSandAndroid.png  used on input line 55.
-(pdftex.def)             Requested size: 220.12407pt x 137.61519pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \vbox (6.50772pt too high) detected at line 50
  []
 
 [3
 
- <./ReactfoiOSandAndroid.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 69--69
- [][][][] []  
- []
+ <./ProjectDefault01.png>]
+<ProjectDefault02.png, id=237, 948.54375pt x 651.18282pt>
+File: ProjectDefault02.png Graphic file (type png)
+<use ProjectDefault02.png>
+Package pdftex.def Info: ProjectDefault02.png  used on input line 55.
+(pdftex.def)             Requested size: 284.52756pt x 195.32654pt.
+ [4
 
+ <./ProjectDefault02.png>]
+<ProjectDefault03.png, id=284, 953.81343pt x 669.2503pt>
+File: ProjectDefault03.png Graphic file (type png)
+<use ProjectDefault03.png>
+Package pdftex.def Info: ProjectDefault03.png  used on input line 59.
+(pdftex.def)             Requested size: 284.52756pt x 199.64311pt.
+ [5
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
+ <./ProjectDefault03.png>]
+<ProjectDefault04.png, id=329, 954.56625pt x 744.53156pt>
+File: ProjectDefault04.png Graphic file (type png)
+<use ProjectDefault04.png>
+Package pdftex.def Info: ProjectDefault04.png  used on input line 63.
+(pdftex.def)             Requested size: 284.52756pt x 221.91838pt.
 
-[4
-
-]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 78--78
- [][][][] []  
- []
-
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[5
-
-]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 83--83
- [][][][] []  
- []
-
-<Showcase1.JPG, id=275, 1017.8025pt x 1169.87062pt>
-File: Showcase1.JPG Graphic file (type jpg)
-<use Showcase1.JPG>
-Package pdftex.def Info: Showcase1.JPG  used on input line 83.
-(pdftex.def)             Requested size: 198.02808pt x 227.62204pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \vbox (0.80406pt too high) detected at line 63
  []
 
 [6
 
- <./Showcase1.JPG>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 87--87
- [][][][] []  
- []
+ <./ProjectDefault04.png>]
+<ProjectDefault05.png, id=374, 630.85687pt x 567.62062pt>
+File: ProjectDefault05.png Graphic file (type png)
+<use ProjectDefault05.png>
+Package pdftex.def Info: ProjectDefault05.png  used on input line 68.
+(pdftex.def)             Requested size: 199.16928pt x 179.19984pt.
+ [7
 
-<Showcase2.JPG, id=313, 959.08313pt x 1285.05093pt>
-File: Showcase2.JPG Graphic file (type jpg)
-<use Showcase2.JPG>
-Package pdftex.def Info: Showcase2.JPG  used on input line 87.
-(pdftex.def)             Requested size: 169.87624pt x 227.62204pt.
+ <./ProjectDefault05.png>]
+<ProjectDefault06.png, id=420, 947.79094pt x 613.54219pt>
+File: ProjectDefault06.png Graphic file (type png)
+<use ProjectDefault06.png>
+Package pdftex.def Info: ProjectDefault06.png  used on input line 73.
+(pdftex.def)             Requested size: 284.52756pt x 184.18578pt.
+ [8
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
+ <./ProjectDefault06.png>]
+<ProjectDefault07.png, id=466, 953.81343pt x 615.0478pt>
+File: ProjectDefault07.png Graphic file (type png)
+<use ProjectDefault07.png>
+Package pdftex.def Info: ProjectDefault07.png  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 183.47404pt.
+ [9
 
-[7
+ <./ProjectDefault07.png>]
+<ProjectDefault09.png, id=512, 946.28531pt x 610.53094pt>
+File: ProjectDefault09.png Graphic file (type png)
+<use ProjectDefault09.png>
+Package pdftex.def Info: ProjectDefault09.png  used on input line 81.
+(pdftex.def)             Requested size: 284.52756pt x 183.57059pt.
+ [10
 
- <./Showcase2.JPG>]
+ <./ProjectDefault09.png>]
+<ProjectDefault08.png, id=557, 946.28531pt x 619.56468pt>
+File: ProjectDefault08.png Graphic file (type png)
+<use ProjectDefault08.png>
+Package pdftex.def Info: ProjectDefault08.png  used on input line 85.
+(pdftex.def)             Requested size: 284.52756pt x 186.28679pt.
+ [11
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 88.
+ <./ProjectDefault08.png>]
+<SnackExpoDev.png, id=602, 963.6pt x 776.9025pt>
+File: SnackExpoDev.png Graphic file (type png)
+<use SnackExpoDev.png>
+Package pdftex.def Info: SnackExpoDev.png  used on input line 91.
+(pdftex.def)             Requested size: 284.52756pt x 229.39763pt.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 88.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 88.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 89.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 89.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 89.
-
-
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 96--96
- [][][][] []  
- []
-
-<Node.jsInstall.png, id=353, 1417.54594pt x 694.09312pt>
-File: Node.jsInstall.png Graphic file (type png)
-<use Node.jsInstall.png>
-Package pdftex.def Info: Node.jsInstall.png  used on input line 96.
-(pdftex.def)             Requested size: 284.52756pt x 139.31393pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[8
-
- <./Node.jsInstall.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 101--101
- [][][][] []  
- []
-
-<NodeJS01.png, id=399, 372.64218pt x 291.33844pt>
-File: NodeJS01.png Graphic file (type png)
-<use NodeJS01.png>
-Package pdftex.def Info: NodeJS01.png  used on input line 101.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS02.png, id=400, 372.64218pt x 291.33844pt>
-File: NodeJS02.png Graphic file (type png)
-<use NodeJS02.png>
-Package pdftex.def Info: NodeJS02.png  used on input line 101.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS03.png, id=401, 372.64218pt x 291.33844pt>
-File: NodeJS03.png Graphic file (type png)
-<use NodeJS03.png>
-Package pdftex.def Info: NodeJS03.png  used on input line 101.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS04.png, id=402, 372.64218pt x 291.33844pt>
-File: NodeJS04.png Graphic file (type png)
-<use NodeJS04.png>
-Package pdftex.def Info: NodeJS04.png  used on input line 101.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[9
-
- <./NodeJS01.png> <./NodeJS02.png> <./NodeJS03.png> <./NodeJS04.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 106--106
- [][][][] []  
- []
-
-<NodeJS05.png, id=446, 372.64218pt x 291.33844pt>
-File: NodeJS05.png Graphic file (type png)
-<use NodeJS05.png>
-Package pdftex.def Info: NodeJS05.png  used on input line 106.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS06.png, id=447, 372.64218pt x 291.33844pt>
-File: NodeJS06.png Graphic file (type png)
-<use NodeJS06.png>
-Package pdftex.def Info: NodeJS06.png  used on input line 106.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS07.png, id=448, 372.64218pt x 291.33844pt>
-File: NodeJS07.png Graphic file (type png)
-<use NodeJS07.png>
-Package pdftex.def Info: NodeJS07.png  used on input line 106.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-<NodeJS08.png, id=449, 372.64218pt x 291.33844pt>
-File: NodeJS08.png Graphic file (type png)
-<use NodeJS08.png>
-Package pdftex.def Info: NodeJS08.png  used on input line 106.
-(pdftex.def)             Requested size: 142.26378pt x 111.22098pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[10
-
- <./NodeJS05.png> <./NodeJS06.png> <./NodeJS07.png> <./NodeJS08.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 107.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 107.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 107.
-
-
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 115--115
- [][][][] []  
- []
-
-<ExpoJS01.png, id=493, 207.77625pt x 16.56187pt>
-File: ExpoJS01.png Graphic file (type png)
-<use ExpoJS01.png>
-Package pdftex.def Info: ExpoJS01.png  used on input line 115.
-(pdftex.def)             Requested size: 142.26378pt x 11.34026pt.
-<ExpoJS02.png, id=494, 1445.4pt x 776.9025pt>
-File: ExpoJS02.png Graphic file (type png)
-<use ExpoJS02.png>
-Package pdftex.def Info: ExpoJS02.png  used on input line 115.
-(pdftex.def)             Requested size: 312.9803pt x 168.22809pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 115--115
- [][] 
- []
-
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[11
-
- <./ExpoJS01.png> <./ExpoJS02.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 122--122
- [][][][] []  
- []
-
-<ExpoJS03.png, id=538, 286.06876pt x 303.38344pt>
-File: ExpoJS03.png Graphic file (type png)
-<use ExpoJS03.png>
-Package pdftex.def Info: ExpoJS03.png  used on input line 122.
-(pdftex.def)             Requested size: 142.26378pt x 150.87659pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \vbox (8.28331pt too high) detected at line 91
  []
 
 [12
 
- <./ExpoJS03.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 136--136
- [][][][] []  
- []
+ <./SnackExpoDev.png>]
+<ProjectBlank01.png, id=652, 472.01344pt x 30.1125pt>
+File: ProjectBlank01.png Graphic file (type png)
+<use ProjectBlank01.png>
+Package pdftex.def Info: ProjectBlank01.png  used on input line 99.
+(pdftex.def)             Requested size: 284.52756pt x 18.1517pt.
+ [13
 
-<ExpoJS04.png, id=579, 170.88844pt x 38.39343pt>
-File: ExpoJS04.png Graphic file (type png)
-<use ExpoJS04.png>
-Package pdftex.def Info: ExpoJS04.png  used on input line 136.
-(pdftex.def)             Requested size: 142.26378pt x 31.96436pt.
+ <./ProjectBlank01.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+13.
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
+(C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [14
 
-[13
+]
+<TemplatePersonalizadoGitHub.png, id=749, 443.40656pt x 17.31468pt>
+File: TemplatePersonalizadoGitHub.png Graphic file (type png)
+<use TemplatePersonalizadoGitHub.png>
+Package pdftex.def Info: TemplatePersonalizadoGitHub.png  used on input line 12
+3.
+(pdftex.def)             Requested size: 284.52756pt x 11.11119pt.
+ [15
 
- <./ExpoJS04.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 149--149
- [][][][] []  
- []
+ <./TemplatePersonalizadoGitHub.png>]
+<ProjectBlank02.png, id=795, 910.90312pt x 764.8575pt>
+File: ProjectBlank02.png Graphic file (type png)
+<use ProjectBlank02.png>
+Package pdftex.def Info: ProjectBlank02.png  used on input line 127.
+(pdftex.def)             Requested size: 256.0748pt x 215.02226pt.
+ [16
 
-<ExpoJS05.png, id=621, 286.82156pt x 72.27pt>
-File: ExpoJS05.png Graphic file (type png)
-<use ExpoJS05.png>
-Package pdftex.def Info: ExpoJS05.png  used on input line 149.
-(pdftex.def)             Requested size: 199.16928pt x 50.18503pt.
-<ExpoJS06.png, id=622, 1426.57968pt x 840.89156pt>
-File: ExpoJS06.png Graphic file (type png)
-<use ExpoJS06.png>
-Package pdftex.def Info: ExpoJS06.png  used on input line 149.
-(pdftex.def)             Requested size: 85.35826pt x 50.31017pt.
-<ExpoJS07.png, id=623, 883.80188pt x 151.3153pt>
-File: ExpoJS07.png Graphic file (type png)
-<use ExpoJS07.png>
-Package pdftex.def Info: ExpoJS07.png  used on input line 149.
-(pdftex.def)             Requested size: 284.52756pt x 48.7128pt.
+ <./ProjectBlank02.png>]
+<ProjectBlank03.png, id=841, 809.27344pt x 448.67625pt>
+File: ProjectBlank03.png Graphic file (type png)
+<use ProjectBlank03.png>
+Package pdftex.def Info: ProjectBlank03.png  used on input line 131.
+(pdftex.def)             Requested size: 312.9803pt x 173.52478pt.
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[14
-
- <./ExpoJS05.png> <./ExpoJS06.png> <./ExpoJS07.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 156--156
- [][][][] []  
- []
-
-<ExpoJS08.png, id=667, 496.10344pt x 543.53062pt>
-File: ExpoJS08.png Graphic file (type png)
-<use ExpoJS08.png>
-Package pdftex.def Info: ExpoJS08.png  used on input line 156.
-(pdftex.def)             Requested size: 170.71652pt x 187.03723pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[15
-
- <./ExpoJS08.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 164--164
- [][][][] []  
- []
-
-<VisualStudioForReactNative01.png, id=708, 839.38594pt x 472.76625pt>
-File: VisualStudioForReactNative01.png Graphic file (type png)
-<use VisualStudioForReactNative01.png>
-Package pdftex.def Info: VisualStudioForReactNative01.png  used on input line 1
-64.
-(pdftex.def)             Requested size: 170.71652pt x 96.15303pt.
-<VisualStudioForReactNative02.png, id=709, 214.55156pt x 145.29282pt>
-File: VisualStudioForReactNative02.png Graphic file (type png)
-<use VisualStudioForReactNative02.png>
-Package pdftex.def Info: VisualStudioForReactNative02.png  used on input line 1
-64.
-(pdftex.def)             Requested size: 113.81102pt x 77.07132pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
- []
-
-[16
-
- <./VisualStudioForReactNative01.png> <./VisualStudioForReactNative02.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 175--175
- [][][][] []  
- []
-
-File: ExpoJS08.png Graphic file (type png)
-<use ExpoJS08.png>
-Package pdftex.def Info: ExpoJS08.png  used on input line 175.
-(pdftex.def)             Requested size: 142.26378pt x 155.86159pt.
-<AppExpo01.jpg, id=751, 924.45375pt x 2055.68pt>
-File: AppExpo01.jpg Graphic file (type jpg)
-<use AppExpo01.jpg>
-Package pdftex.def Info: AppExpo01.jpg  used on input line 175.
-(pdftex.def)             Requested size: 71.13188pt x 158.15297pt.
-<AppExpo02.jpg, id=752, 924.45375pt x 2055.68pt>
-File: AppExpo02.jpg Graphic file (type jpg)
-<use AppExpo02.jpg>
-Package pdftex.def Info: AppExpo02.jpg  used on input line 175.
-(pdftex.def)             Requested size: 71.13188pt x 158.15297pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 131--131
+ [][] 
  []
 
 [17
 
- <./AppExpo01.jpg> <./AppExpo02.jpg>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 183--183
- [][][][] []  
- []
+ <./ProjectBlank03.png>]
+<ProjectBlank05.png, id=887, 626.34pt x 357.58594pt>
+File: ProjectBlank05.png Graphic file (type png)
+<use ProjectBlank05.png>
+Package pdftex.def Info: ProjectBlank05.png  used on input line 135.
+(pdftex.def)             Requested size: 312.9803pt x 178.68884pt.
 
-<EmuladorWeb.png, id=794, 722.7pt x 599.23875pt>
-File: EmuladorWeb.png Graphic file (type png)
-<use EmuladorWeb.png>
-Package pdftex.def Info: EmuladorWeb.png  used on input line 183.
-(pdftex.def)             Requested size: 227.62204pt x 188.73376pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 135--135
+ [][] 
  []
 
 [18
 
- <./EmuladorWeb.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 191--191
- [][][][] []  
- []
+ <./ProjectBlank05.png>]
+<ProjectBlank06.png, id=932, 1065.22969pt x 370.38374pt>
+File: ProjectBlank06.png Graphic file (type png)
+<use ProjectBlank06.png>
+Package pdftex.def Info: ProjectBlank06.png  used on input line 142.
+(pdftex.def)             Requested size: 312.9803pt x 108.82143pt.
 
-<EmuladorAndroidStudio01.png, id=835, 753.5653pt x 494.59781pt>
-File: EmuladorAndroidStudio01.png Graphic file (type png)
-<use EmuladorAndroidStudio01.png>
-Package pdftex.def Info: EmuladorAndroidStudio01.png  used on input line 191.
-(pdftex.def)             Requested size: 227.62204pt x 149.39177pt.
-
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 142--142
+ [][] 
  []
 
 [19
 
- <./EmuladorAndroidStudio01.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 198--198
- [][][][] []  
+ <./ProjectBlank06.png>] [20
+
+] [21
+
+]
+<ProjectBlank07.png, id=1067, 885.3075pt x 652.68843pt>
+File: ProjectBlank07.png Graphic file (type png)
+<use ProjectBlank07.png>
+Package pdftex.def Info: ProjectBlank07.png  used on input line 178.
+(pdftex.def)             Requested size: 284.52756pt x 209.77084pt.
+ [22
+
+ <./ProjectBlank07.png>]
+<ProjectBlank31.png, id=1113, 1133.73563pt x 547.2947pt>
+File: ProjectBlank31.png Graphic file (type png)
+<use ProjectBlank31.png>
+Package pdftex.def Info: ProjectBlank31.png  used on input line 185.
+(pdftex.def)             Requested size: 312.9803pt x 151.0869pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 185--185
+ [][] 
  []
 
-<EmuladorAndroidStudio03.png, id=878, 591.71063pt x 484.05844pt>
-File: EmuladorAndroidStudio03.png Graphic file (type png)
-<use EmuladorAndroidStudio03.png>
-Package pdftex.def Info: EmuladorAndroidStudio03.png  used on input line 198.
-(pdftex.def)             Requested size: 227.62204pt x 186.21165pt.
+[23
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+ <./ProjectBlank31.png>]
+<ProjectBlank30.png, id=1159, 1163.0953pt x 506.6428pt>
+File: ProjectBlank30.png Graphic file (type png)
+<use ProjectBlank30.png>
+Package pdftex.def Info: ProjectBlank30.png  used on input line 195.
+(pdftex.def)             Requested size: 312.9803pt x 136.33154pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 195--195
+ [][] 
  []
 
-[20
+[24
 
- <./EmuladorAndroidStudio03.png>]
-Overfull \hbox (33.37231pt too wide) in paragraph at lines 205--205
- [][][][] []  
+ <./ProjectBlank30.png>]
+<ProjectBlank33.png, id=1205, 888.31876pt x 642.14906pt>
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 202.
+(pdftex.def)             Requested size: 256.0748pt x 185.11124pt.
+
+Overfull \vbox (4.0467pt too high) detected at line 202
  []
 
-<EmuladorAndroidStudio04.png, id=919, 1076.52188pt x 722.7pt>
-File: EmuladorAndroidStudio04.png Graphic file (type png)
-<use EmuladorAndroidStudio04.png>
-Package pdftex.def Info: EmuladorAndroidStudio04.png  used on input line 205.
-(pdftex.def)             Requested size: 227.62204pt x 152.80806pt.
+[25
 
-Overfull \hbox (33.37231pt too wide) has occurred while \output is active
- [][][][] []  
+ <./ProjectBlank33.png>]
+<ProjectBlank32.png, id=1252, 1209.76968pt x 533.74406pt>
+File: ProjectBlank32.png Graphic file (type png)
+<use ProjectBlank32.png>
+Package pdftex.def Info: ProjectBlank32.png  used on input line 210.
+(pdftex.def)             Requested size: 312.9803pt x 138.08606pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 210--210
+ [][] 
  []
 
-[21
+[26
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./EmuladorAndroidStudio
-04.png>]
+ <./ProjectBlank32.png>] [27
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 206.
+]
+<ProjectBlank34.png, id=1342, 1063.72406pt x 587.19376pt>
+File: ProjectBlank34.png Graphic file (type png)
+<use ProjectBlank34.png>
+Package pdftex.def Info: ProjectBlank34.png  used on input line 230.
+(pdftex.def)             Requested size: 312.9803pt x 172.7637pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 230--230
+ [][] 
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 206.
+Overfull \vbox (6.42136pt too high) detected at line 230
+ []
+
+[28
+
+ <./ProjectBlank34.png>]
+File: ProjectBlank34.png Graphic file (type png)
+<use ProjectBlank34.png>
+Package pdftex.def Info: ProjectBlank34.png  used on input line 241.
+(pdftex.def)             Requested size: 312.9803pt x 172.7637pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 241--241
+ [][] 
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 206.
+Overfull \vbox (67.42136pt too high) detected at line 241
+ []
 
+[29
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 252.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 252--252
+ [][] 
+ []
+
+
+Overfull \vbox (79.73586pt too high) detected at line 252
+ []
+
+[30
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 263.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 263--263
+ [][] 
+ []
+
+
+Overfull \vbox (81.56952pt too high) detected at line 263
+ []
+
+[31
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 274.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 274--274
+ [][] 
+ []
+
+
+Overfull \vbox (107.5692pt too high) detected at line 274
+ []
+
+[32
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 286.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 286--286
+ [][] 
+ []
+
+
+Overfull \vbox (108.73586pt too high) detected at line 286
+ []
+
+[33
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 298.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 298--298
+ [][] 
+ []
+
+
+Overfull \vbox (80.40286pt too high) detected at line 298
+ []
+
+[34
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 310.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 310--310
+ [][] 
+ []
+
+
+Overfull \vbox (94.90254pt too high) detected at line 310
+ []
+
+[35
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 322.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 322--322
+ [][] 
+ []
+
+
+Overfull \vbox (94.90286pt too high) detected at line 322
+ []
+
+[36
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 334.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 334--334
+ [][] 
+ []
+
+
+Overfull \vbox (94.23586pt too high) detected at line 334
+ []
+
+[37
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 346.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 346--346
+ [][] 
+ []
+
+
+Overfull \vbox (79.73586pt too high) detected at line 346
+ []
+
+[38
+
+]
+File: ProjectBlank33.png Graphic file (type png)
+<use ProjectBlank33.png>
+Package pdftex.def Info: ProjectBlank33.png  used on input line 358.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 358--358
+ [][] 
+ []
+
+
+Overfull \vbox (94.90286pt too high) detected at line 358
+ []
+
+[39
+
+]
+<ProjectBlank08.png, id=1872, 1507.88344pt x 692.5875pt>
+File: ProjectBlank08.png Graphic file (type png)
+<use ProjectBlank08.png>
+Package pdftex.def Info: ProjectBlank08.png  used on input line 366.
+(pdftex.def)             Requested size: 284.52756pt x 130.68414pt.
+ [40
+
+ <./ProjectBlank08.png>]
+<ProjectBlank13.png, id=1919, 901.11656pt x 647.41875pt>
+File: ProjectBlank13.png Graphic file (type png)
+<use ProjectBlank13.png>
+Package pdftex.def Info: ProjectBlank13.png  used on input line 370.
+(pdftex.def)             Requested size: 284.52756pt x 204.42204pt.
+ [41
+
+ <./ProjectBlank13.png>] [42
+
+] [43
+
+]
+<ProjectBlank14.png, id=2058, 898.85812pt x 648.92438pt>
+File: ProjectBlank14.png Graphic file (type png)
+<use ProjectBlank14.png>
+Package pdftex.def Info: ProjectBlank14.png  used on input line 405.
+(pdftex.def)             Requested size: 284.52756pt x 205.41234pt.
+ [44
+
+ <./ProjectBlank14.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 421.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 421.
+ [45
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<ProjectBlank15.png, id=2149, 1015.54407pt x 874.76813pt>
+File: ProjectBlank15.png Graphic file (type png)
+<use ProjectBlank15.png>
+Package pdftex.def Info: ProjectBlank15.png  used on input line 425.
+(pdftex.def)             Requested size: 284.52756pt x 245.08023pt.
+
+Overfull \vbox (23.96591pt too high) detected at line 425
+ []
+
+[46
+
+ <./ProjectBlank15.png>] [47
+
+]
+<ProjectBlank16.png, id=2239, 893.58844pt x 645.91313pt>
+File: ProjectBlank16.png Graphic file (type png)
+<use ProjectBlank16.png>
+Package pdftex.def Info: ProjectBlank16.png  used on input line 446.
+(pdftex.def)             Requested size: 284.52756pt x 205.66156pt.
+ [48
+
+ <./ProjectBlank16.png>] [49
+
+]
+<ProjectBlank17.png, id=2329, 897.3525pt x 645.91313pt>
+File: ProjectBlank17.png Graphic file (type png)
+<use ProjectBlank17.png>
+Package pdftex.def Info: ProjectBlank17.png  used on input line 463.
+(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
+ [50
+
+ <./ProjectBlank17.png>] [51
+
+] [52
+
+]
+<ProjectBlank09.png, id=2462, 889.07156pt x 648.17157pt>
+File: ProjectBlank09.png Graphic file (type png)
+<use ProjectBlank09.png>
+Package pdftex.def Info: ProjectBlank09.png  used on input line 484.
+(pdftex.def)             Requested size: 284.52756pt x 207.42903pt.
+ [53
+
+ <./ProjectBlank09.png>] [54
+
+]
+<ProjectBlank10.png, id=2552, 889.07156pt x 644.4075pt>
+File: ProjectBlank10.png Graphic file (type png)
+<use ProjectBlank10.png>
+Package pdftex.def Info: ProjectBlank10.png  used on input line 499.
+(pdftex.def)             Requested size: 284.52756pt x 206.22444pt.
+ [55
+
+ <./ProjectBlank10.png>] [56
+
+]
+<ProjectBlank11.png, id=2643, 897.3525pt x 645.91313pt>
+File: ProjectBlank11.png Graphic file (type png)
+<use ProjectBlank11.png>
+Package pdftex.def Info: ProjectBlank11.png  used on input line 516.
+(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
+ [57
+
+ <./ProjectBlank11.png>] [58
+
+]
+<ProjectBlank12.png, id=2732, 880.79062pt x 656.4525pt>
+File: ProjectBlank12.png Graphic file (type png)
+<use ProjectBlank12.png>
+Package pdftex.def Info: ProjectBlank12.png  used on input line 532.
+(pdftex.def)             Requested size: 284.52756pt x 212.05238pt.
+ [59
+
+ <./ProjectBlank12.png>]
+[60
+
+]
+<ProjectBlank18.png, id=2825, 843.15pt x 681.29532pt>
+File: ProjectBlank18.png Graphic file (type png)
+<use ProjectBlank18.png>
+Package pdftex.def Info: ProjectBlank18.png  used on input line 547.
+(pdftex.def)             Requested size: 284.52756pt x 229.91165pt.
+
+Overfull \vbox (8.79733pt too high) detected at line 547
+ []
+
+[61
+
+ <./ProjectBlank18.png>]
+Overfull \vbox (0.81174pt too high) detected at line 560
+ []
+
+[62
+
+]
+<ProjectBlank19.png, id=2915, 785.18344pt x 621.07031pt>
+File: ProjectBlank19.png Graphic file (type png)
+<use ProjectBlank19.png>
+Package pdftex.def Info: ProjectBlank19.png  used on input line 564.
+(pdftex.def)             Requested size: 284.52756pt x 225.0635pt.
+
+Overfull \vbox (3.94919pt too high) detected at line 564
+ []
+
+[63
+
+ <./ProjectBlank19.png>]
+<ProjectBlank20.png, id=2960, 482.55281pt x 534.49687pt>
+File: ProjectBlank20.png Graphic file (type png)
+<use ProjectBlank20.png>
+Package pdftex.def Info: ProjectBlank20.png  used on input line 574.
+(pdftex.def)             Requested size: 141.28418pt x 156.49014pt.
+<ProjectBlank21.png, id=2961, 335.75438pt x 721.94719pt>
+File: ProjectBlank21.png Graphic file (type png)
+<use ProjectBlank21.png>
+Package pdftex.def Info: ProjectBlank21.png  used on input line 574.
+(pdftex.def)             Requested size: 72.77495pt x 156.49014pt.
+<ProjectBlank22.png, id=2962, 338.76563pt x 723.45282pt>
+File: ProjectBlank22.png Graphic file (type png)
+<use ProjectBlank22.png>
+Package pdftex.def Info: ProjectBlank22.png  used on input line 574.
+(pdftex.def)             Requested size: 73.27773pt x 156.49014pt.
+ [64
+
+ <./ProjectBlank20.png> <./ProjectBlank21.png> <./ProjectBlank22.png>]
+<ProjectBlank23.png, id=3010, 505.89pt x 691.83469pt>
+File: ProjectBlank23.png Graphic file (type png)
+<use ProjectBlank23.png>
+Package pdftex.def Info: ProjectBlank23.png  used on input line 580.
+(pdftex.def)             Requested size: 114.43015pt x 156.49014pt.
+<ProjectBlank24.png, id=3011, 340.27126pt x 724.20563pt>
+File: ProjectBlank24.png Graphic file (type png)
+<use ProjectBlank24.png>
+Package pdftex.def Info: ProjectBlank24.png  used on input line 580.
+(pdftex.def)             Requested size: 73.52553pt x 156.49014pt.
+<ProjectBlank25.png, id=3012, 336.50719pt x 722.7pt>
+File: ProjectBlank25.png Graphic file (type png)
+<use ProjectBlank25.png>
+Package pdftex.def Info: ProjectBlank25.png  used on input line 580.
+(pdftex.def)             Requested size: 72.86623pt x 156.49014pt.
+ [65
+
+ <./ProjectBlank23.png> <./ProjectBlank24.png> <./ProjectBlank25.png>]
+<ProjectBlank27.png, id=3059, 696.35156pt x 440.39531pt>
+File: ProjectBlank27.png Graphic file (type png)
+<use ProjectBlank27.png>
+Package pdftex.def Info: ProjectBlank27.png  used on input line 589.
+(pdftex.def)             Requested size: 256.0748pt x 161.94916pt.
+ [66
+
+ <./ProjectBlank27.png>]
+<ProjectBlank26.png, id=3105, 700.86844pt x 539.01375pt>
+File: ProjectBlank26.png Graphic file (type png)
+<use ProjectBlank26.png>
+Package pdftex.def Info: ProjectBlank26.png  used on input line 593.
+(pdftex.def)             Requested size: 256.0748pt x 196.93988pt.
+ [67
+
+ <./ProjectBlank26.png>]
+<ProjectBlank28.png, id=3151, 795.72281pt x 537.50812pt>
+File: ProjectBlank28.png Graphic file (type png)
+<use ProjectBlank28.png>
+Package pdftex.def Info: ProjectBlank28.png  used on input line 601.
+(pdftex.def)             Requested size: 256.0748pt x 172.9739pt.
+
+[68
+
+ <./ProjectBlank28.png>]
+<ProjectBlank29.png, id=3196, 797.22844pt x 569.12625pt>
+File: ProjectBlank29.png Graphic file (type png)
+<use ProjectBlank29.png>
+Package pdftex.def Info: ProjectBlank29.png  used on input line 608.
+(pdftex.def)             Requested size: 256.0748pt x 182.80148pt.
+
+Overfull \vbox (2.90361pt too high) detected at line 608
+ []
+
+[69
+
+ <./ProjectBlank29.png>]
 \tf@nav=\write7
-\openout7 = `"D01. Instalació de l'entorn per React Native.nav"'.
+\openout7 = `"D02. Walkthough per React Native.nav"'.
 
 \tf@toc=\write8
-\openout8 = `"D01. Instalació de l'entorn per React Native.toc"'.
+\openout8 = `"D02. Walkthough per React Native.toc"'.
 
 \tf@snm=\write9
-\openout9 = `"D01. Instalació de l'entorn per React Native.snm"'.
+\openout9 = `"D02. Walkthough per React Native.snm"'.
+
 
 
 Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -1956,33 +2120,33 @@ Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 (movie15)                @@ superseded by `media9'.           @@
 (movie15)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
 
-(D01. Instalació de l'entorn per React Native.aux)
+(D02. Walkthough per React Native.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `"D01. Instalació de l'entorn per React Nati
-ve".out' has not changed.
-(rerunfilecheck)             Checksum: F34E9F75E09476492A616BA7E7FCB782;2625.
+Package rerunfilecheck Info: File `"D02. Walkthough per React Native".out' has 
+not changed.
+(rerunfilecheck)             Checksum: A70C18384397CCEB10FCA0DB5A18B08C;4577.
  ) 
 Here is how much of TeX's memory you used:
- 31793 strings out of 474486
- 594039 string characters out of 5753577
- 1940542 words of memory out of 5000000
- 53258 multiletter control sequences out of 15000+600000
- 623916 words of font info for 99 fonts, out of 8000000 for 9000
+ 32318 strings out of 474486
+ 603274 string characters out of 5753577
+ 1946542 words of memory out of 5000000
+ 53634 multiletter control sequences out of 15000+600000
+ 611326 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,22n,123p,3281b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/M
-iKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
-lic/lm/lmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
-/lm/lmsy6.pfb>
-Output written on "D01. Instalació de l'entorn per React Native.pdf" (21 pages
-, 1837980 bytes).
+ 128i,19n,123p,3268b,871s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/lm/lmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
+lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on "D02. Walkthough per React Native.pdf" (69 pages, 13679659 by
+tes).
 PDF statistics:
- 1008 PDF objects out of 1200 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3320 PDF objects out of 3580 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
 

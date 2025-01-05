@@ -25,7 +25,7 @@
 \usepackage{ragged2e}
 \usepackage[3D]{movie15}
 
-\title{01. Introducció i Instalació de l'entorn de desenvolupament React Native}
+\title{01. Introducció i Instal$\cdot$lació de l'entorn de desenvolupament React Native}
 \author{Xavi Lara - Profesor I.Sabadell xlara@ies-sabadell.cat}
 \institute{\includegraphics[scale=0.5]{LogoInstitut.png}}
 \date{}
@@ -85,10 +85,123 @@
 	\begin{frame}
 		\centering\includegraphics[height=8cm]{Showcase2.JPG}
 	\end{frame}
-	\section{1. Instalació de React Native}
-	\subsection{}
-	\subsubsection{}
-	\begin{frame}
+	\section{1. Instal$\cdot$lació de React Native}
+	\subsection{1.1. Instal$\cdot$lació de NodeJS}
+	\subsubsection{1.1.1. Descarrega de NodeJS}
+	\begin{frame}{Instalació de React Native}
+		\centering\includegraphics[width=10cm]{Node.jsInstall.png}
+		\begin{block}{}
+			Primer necessitem el programa npm per l'instal$\cdot$lació d'Expo que serà el programa que carregarà els nostres projectes de React Native y gestionarà la seva execució als dispositius.
+		\end{block}
 	\end{frame}
-	\
+	\subsubsection{1.1.2. Intal$\cdot$lació de NodeJS Part 1}
+	\begin{frame}
+		\centering\includegraphics[width=5cm]{NodeJS01.png}\includegraphics[width=5cm]{NodeJS02.png}\\
+		\centering\includegraphics[width=5cm]{NodeJS03.png}\includegraphics[width=5cm]{NodeJS04.png}\\
+	\end{frame}
+	\subsubsection{1.1.3. Intal$\cdot$lació de NodeJS Part 3}
+	\begin{frame}
+		\centering\includegraphics[width=5cm]{NodeJS05.png}\includegraphics[width=5cm]{NodeJS06.png}\\
+		\centering\includegraphics[width=5cm]{NodeJS07.png}\includegraphics[width=5cm]{NodeJS08.png}\\
+	\end{frame}
+	\subsection{1.2. Instal$\cdot$lació d'Expo}
+	\subsubsection{1.2.1. Instal$\cdot$lació d'Expo Part 1}
+	\begin{frame}
+		\begin{block}{}
+			Ara iniciem a la terminal l'instal$\cdot$lació d'Expo amb el següent comandament.
+		\end{block}
+		\centering\includegraphics[width=5cm]{ExpoJS01.png}\\
+		\includegraphics[width=11cm]{ExpoJS02.png}\\
+	\end{frame}
+	\subsubsection{1.2.2. Instal$\cdot$lació d'Expo Part 2}
+	\begin{frame}
+		\begin{block}{}
+			Podem actualitzar alguns apartats d'npm per solventar aquests warning. Pot ser diferent als vostres ordinadors.
+		\end{block}
+		\centering\includegraphics[width=5cm]{ExpoJS03.png}
+	\end{frame}
+	\subsubsection{1.2.3. Comprovar l'instal$\cdot$lació npm audit}
+	\begin{frame}
+		\centering\includegraphics[width=5cm]{ExpoJS04.png}
+		\begin{block}{}
+			Això ens danarà un informe de les vulnerabilitats actuals. El resultat típic inclourà:
+			\begin{itemize}
+				\item Paquets afectats.
+				\item Severitat de la vulnerabilitat.
+				\item Versió dels paquets que tenen els problemes.
+				\item Descripció dels problemes y l'enllaç a més informació.
+				\item Solució sugerida, como actualitzar el paquet.
+			\end{itemize}
+		\end{block}
+	\end{frame}
+	\subsection{1.3. Creació del projecte React Native amb Expo}
+	\subsubsection{1.3.1. Creació del projecte React Native}
+	\begin{frame}
+		\begin{block}{}
+			La comanda per crear projecte en React Native:
+		\end{block}
+		\centering\includegraphics[width=7cm]{ExpoJS05.png}
+		\centering\includegraphics[width=3cm]{ExpoJS06.png}\\
+		\centering\includegraphics[width=10cm]{ExpoJS07.png}
+		\begin{block}{}
+			Situeu-vos sobre la carpeta on s'ha creat el projecte React Native i ara ho iniciem expo.
+		\end{block}
+	\end{frame}
+	\subsubsection{1.3.2. Inicialització del Projecte React Native}
+	\begin{frame}
+		\begin{block}{}
+			Executant l'inici d'Expo amb aquesta comanda:
+		\end{block}
+		\centering\includegraphics[width=6cm]{ExpoJS08.png}\\
+	\end{frame}
+	\subsubsection{1.3.3. Problema amb l'editor standard d'Expo}
+	\begin{frame}
+		\begin{block}{Problemes amb l'Editor d'Expo}
+			Potser que Expo us intenti carregar el projecte amb el bloc de notes o el notepad en comptes del VisualStudioCode, el programa adecuat. Intenteu el següent.
+		\end{block}
+		\centering\includegraphics[width=6cm]{VisualStudioForReactNative01.png}
+		\centering\includegraphics[width=4cm]{VisualStudioForReactNative02.png}
+	\end{frame}
+	\section{2. Dispositius On Desenvolupar Aplicacions}
+	\subsection{2.1. La Aplicació d'Expo Project}
+	\subsubsection{2.1.1. La Aplicació d'Expo Project}
+	\begin{frame}
+		\begin{block}{}
+			Amb el QR de la terminal d'Expo podem executar l'aplicació al nostre dispositiu mòbil amb l'aplicació d'Expo que trobareu a la PlayStore:
+		\end{block}
+		\centering\includegraphics[width=5cm]{ExpoJS08.png}
+				  \includegraphics[width=2.5cm]{AppExpo01.jpg}
+				  \includegraphics[width=2.5cm]{AppExpo02.jpg}
+	\end{frame}
+	\subsection{2.2. Aplicació executada com a Web}
+	\subsubsection{2.1.1. Aplicació executada com a Web}
+	\begin{frame}
+		\begin{block}{}
+			Entrant \textbf{w} a la terminal podem executar l'aplicació al explorador web del mateix ordinador.
+		\end{block}
+		\centering\includegraphics[width=8cm]{EmuladorWeb.png}
+	\end{frame}
+	\subsection{2.3. Aplicació executada als emuladors d'Android Studio}
+	\subsubsection{2.3.1. Obrir el Virtual Device Manager d'Android Studio}
+	\begin{frame}
+		\begin{block}{}
+			Inicieu Android Studio sense obrir cap projecte Android i accediu a l'opció de \textbf{Virtual Device Manager}.
+		\end{block}
+		\centering\includegraphics[width=8cm]{EmuladorAndroidStudio01.png}
+	\end{frame}
+	\subsubsection{2.3.1. Obrir el Virtual Device Manager d'Android Studio}
+	\begin{frame}
+		\begin{block}{}
+			S'obrirà el mateix menu dels AVD utilitzats als projectes d'Android Studio. Engeguem algún:
+		\end{block}
+		\centering\includegraphics[width=8cm]{EmuladorAndroidStudio03.png}
+	\end{frame}
+	\subsubsection{2.3.1. Executar React Native en el Emulador d'Android Studio}
+	\begin{frame}
+		\begin{block}{}
+			Un com engegat amb la comanda \textbf{a} o \textbf{swift}$+$\textbf{a} podreu seleccionar aquest emulador per executar l'aplicació del projecte de React Native.
+		\end{block}
+		\centering\includegraphics[width=8cm]{EmuladorAndroidStudio04.png}
+	\end{frame}
+	\section{3. Instal$\cdot$lació de React Native}
 \end{document}

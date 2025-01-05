@@ -1,0 +1,87 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{1. Exploració Projecte React Native amb Expo per Defecte}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{1.1. Iniciem el projecte firstapp}{2}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{1.1.1. Iniciem el projecte Expo}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{1.2. Dependencies al Package.json}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{1.2.1. Package.json}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{1.3. TabLayout, Index i Explore}{4}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{1}{1.3.1. TabLayout}{4}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{2}{1.3.2. Index}{5}{0}{1}
+\beamer@subsubsectionintoc {1}{3}{3}{1.3.3. Explore}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{1.4. Constants com Recursos Fixos}{7}{0}{1}
+\beamer@subsubsectionintoc {1}{4}{1}{1.3.3. Constants}{7}{0}{1}
+\beamer@subsectionintoc {1}{5}{1.5. Components Utilitzats al Projecte}{8}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{1}{1.5.1. Component HelloWave}{8}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{2}{1.5.2. Component Collapsible}{9}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{3}{1.5.3. ComponentExternalLink}{10}{0}{1}
+\beamer@subsubsectionintoc {1}{5}{4}{1.5.4. Component ThemedTest}{11}{0}{1}
+\beamer@sectionintoc {2}{2. La Nostra Primera Aplicació React Native Bàsica}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{2.0. Desenvolupament Online amb Snack Expo Dev}{12}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{2.0.1. Snack Expo Dev Project}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{2.1. Iniciem un Projecte React Native en Blanc}{13}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{2.1.1. Comand per crear un Projecte React Native desde Zero}{13}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{2.1.2. Altres posibles plantilles per React Native}{14}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{3}{2.1.3. Plantilles Personalitzades desde GitHub}{15}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{4}{2.1.4. Iniciem el Projecte en Blanc i Veiem les Opcions}{16}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{5}{2.1.5. Projecte en blanc amb un Text dintre d'una View}{17}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{6}{2.1.6. Dependencies del Projecte en blanc}{18}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{7}{2.1.7. Afegim Dependencies Web al Projecte Blank}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{2.2. Components Bàsics}{20}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{2.2.0. Llista de Components Bàsics}{20}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{2.2.1. View y Text}{21}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{3}{2.2.1. View i Text Mostra}{22}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{4}{2.2.2. TextInput}{23}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{5}{2.2.3. Touchable}{24}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{6}{2.2.3. Button, Pressable}{25}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{7}{2.2.4. Image i ImageBackground}{26}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{8}{2.2.5. ScrollView}{27}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{9}{2.2.6. FlatList}{28}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{10}{2.2.7. SelectionList}{29}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{11}{2.2.11. Modal}{30}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{12}{2.2.12. ActivityIndicator}{31}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{13}{2.2.13. KeyboardAvoidingView}{32}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{14}{2.2.14. SafeAreaView}{33}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{15}{2.2.15. Switch}{34}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{16}{2.2.16. Picker}{35}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{17}{2.2.17. StatusBar}{36}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{18}{2.2.19. RefreshControl}{37}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{19}{2.2.20. Slider}{38}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{20}{2.2.21. CheckBox}{39}{0}{2}
+\beamer@subsectionintoc {2}{4}{2.3. Components amb Estils Comuns}{40}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{1}{2.3.1. Aplicació d'Estils}{40}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{2}{2.3.2. Ús de StyleSheet}{41}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{3}{2.3.3. Diferències respecte a CSS}{42}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{4}{2.3.4. Propietats d'Estil Comunes: Dimensions i Colors}{43}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{5}{2.3.4. Propietats d'Estil Comunes: Dimensions i Colors Mostra}{44}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{6}{2.3.5. Propietats d'Estil Comunes: Tipografia}{45}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{7}{2.3.5. Propietats d'Estil Comunes: Tipografia Mostra}{46}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{8}{2.3.6. Propietats d'Estil Comunes: Marge i farcit (Spacing)}{47}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{9}{2.3.6. Propietats d'Estil Comunes: Marge i farcit (Spacing) Mostra}{48}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{10}{2.3.7. Propietats d'Estil Comunes: Bordes}{49}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{11}{2.3.7. Propietats d'Estil Comunes: Bordes Mostra}{50}{0}{2}
+\beamer@subsectionintoc {2}{5}{2.4. Components Flexbox}{51}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{1}{2.4.0. Teoria dels components Flexbox}{51}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{2}{2.4.1. FlexDirection}{52}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{3}{2.4.1. FlexDirection Mostra}{53}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{4}{2.4.2. Flex}{54}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{5}{2.4.2. Flex Mostra}{55}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{6}{2.4.3. JustifyContent}{56}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{7}{2.4.3. JustifyContent Mostra}{57}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{8}{2.4.4. AlignItems}{58}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{9}{2.4.4. AlignItems Mostra}{59}{0}{2}
+\beamer@sectionintoc {3}{3. Complexitat de les Possibilitats d'Estils}{60}{0}{3}
+\beamer@subsectionintoc {3}{1}{3.1. Combinació d'Estils}{60}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{1}{3.1.1. Combinació d'Estils}{60}{0}{3}
+\beamer@subsubsectionintoc {3}{1}{2}{3.1.1. Combinació d'Estils Mostra}{61}{0}{3}
+\beamer@subsectionintoc {3}{2}{3.2. Estils per a Plataformes Específiques}{62}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{3.2.1. Platform.select()}{62}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{2}{3.2.1. Platform.select() Mostra}{63}{0}{3}
+\beamer@subsectionintoc {3}{3}{3.3. Estils Dinàmics segons Estats}{64}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{1}{3.3.1. Estils segons estat}{64}{0}{3}
+\beamer@subsubsectionintoc {3}{3}{2}{3.3.2. Estils segons estat}{65}{0}{3}
+\beamer@subsectionintoc {3}{4}{3.4. Estils Dinàmics Funcionals i Condicionals}{66}{0}{3}
+\beamer@subsubsectionintoc {3}{4}{1}{3.4.1. Estil funcionals}{66}{0}{3}
+\beamer@subsubsectionintoc {3}{4}{2}{3.4.2. Estil condicionals}{67}{0}{3}
+\beamer@subsectionintoc {3}{5}{3.4. Estils Dinàmics Animats}{68}{0}{3}
+\beamer@subsubsectionintoc {3}{5}{1}{3.4.1. Estils Animats}{68}{0}{3}
+\beamer@subsubsectionintoc {3}{5}{2}{3.4.2. Estils Animats Oscilanció}{69}{0}{3}
