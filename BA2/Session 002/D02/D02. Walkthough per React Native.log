@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.3)  4 JAN 2025 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.3)  5 JAN 2025 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,12 +957,22 @@ Package: layout 2023-08-20 v1.2e Show layout parameters
 \PositionY=\count378
 \ArrowLength=\count379
 )
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen334
+\TX@old@table=\dimen335
+\TX@old@col=\dimen336
+\TX@target=\dimen337
+\TX@delta=\dimen338
+\TX@cols=\count380
+\TX@ftn=\toks59
+)
 (C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count380
-\float@exts=\toks59
+\c@float@type=\count381
+\float@exts=\toks60
 \float@box=\box82
-\@float@everytoks=\toks60
+\@float@everytoks=\toks61
 \@floatcapt=\box83
 )
 (C:\Program Files\MiKTeX\tex/generic/xypic\xypic.sty
@@ -991,18 +1001,18 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen334
-\pgf@nodesepend=\dimen335
+\pgf@nodesepstart=\dimen339
+\pgf@nodesepend=\dimen340
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen336
-\pgffor@skip=\dimen337
-\pgffor@stack=\toks61
-\pgffor@toks=\toks62
+\pgffor@iter=\dimen341
+\pgffor@skip=\dimen342
+\pgffor@stack=\toks62
+\pgffor@toks=\toks63
 ))
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -1010,32 +1020,32 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
 tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count381
-\pgfplotmarksize=\dimen338
+\pgf@plot@mark@count=\count382
+\pgfplotmarksize=\dimen343
 )
-\tikz@lastx=\dimen339
-\tikz@lasty=\dimen340
-\tikz@lastxsaved=\dimen341
-\tikz@lastysaved=\dimen342
-\tikz@lastmovetox=\dimen343
-\tikz@lastmovetoy=\dimen344
-\tikzleveldistance=\dimen345
-\tikzsiblingdistance=\dimen346
+\tikz@lastx=\dimen344
+\tikz@lasty=\dimen345
+\tikz@lastxsaved=\dimen346
+\tikz@lastysaved=\dimen347
+\tikz@lastmovetox=\dimen348
+\tikz@lastmovetoy=\dimen349
+\tikzleveldistance=\dimen350
+\tikzsiblingdistance=\dimen351
 \tikz@figbox=\box85
 \tikz@figbox@bg=\box86
 \tikz@tempbox=\box87
 \tikz@tempbox@bg=\box88
-\tikztreelevel=\count382
-\tikznumberofchildren=\count383
-\tikznumberofcurrentchild=\count384
-\tikz@fig@count=\count385
+\tikztreelevel=\count383
+\tikznumberofchildren=\count384
+\tikznumberofcurrentchild=\count385
+\tikz@fig@count=\count386
  (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count386
-\pgfmatrixcurrentcolumn=\count387
-\pgf@matrix@numberofcolumns=\count388
+\pgfmatrixcurrentrow=\count387
+\pgfmatrixcurrentcolumn=\count388
+\pgf@matrix@numberofcolumns=\count389
 )
-\tikz@expandcount=\count389
+\tikz@expandcount=\count390
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
 rytopaths.code.tex
@@ -1045,24 +1055,24 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count390
+\c@tracingmulticols=\count391
 \mult@box=\box89
-\multicol@leftmargin=\dimen347
-\c@unbalance=\count391
-\c@collectmore=\count392
-\doublecol@number=\count393
-\multicoltolerance=\count394
-\multicolpretolerance=\count395
-\full@width=\dimen348
-\page@free=\dimen349
-\premulticols=\dimen350
-\postmulticols=\dimen351
+\multicol@leftmargin=\dimen352
+\c@unbalance=\count392
+\c@collectmore=\count393
+\doublecol@number=\count394
+\multicoltolerance=\count395
+\multicolpretolerance=\count396
+\full@width=\dimen353
+\page@free=\dimen354
+\premulticols=\dimen355
+\postmulticols=\dimen356
 \multicolsep=\skip67
 \multicolbaselineskip=\skip68
 \partial@page=\box90
 \last@line=\box91
 \mc@boxedresult=\box92
-\maxbalancingoverflow=\dimen352
+\maxbalancingoverflow=\dimen357
 \mult@rightbox=\box93
 \mult@grightbox=\box94
 \mult@firstbox=\box95
@@ -1103,22 +1113,22 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box130
 \@tempa=\box131
 \@tempa=\box132
-\c@minrows=\count396
-\c@columnbadness=\count397
-\c@finalcolumnbadness=\count398
-\last@try=\dimen353
-\multicolovershoot=\dimen354
-\multicolundershoot=\dimen355
+\c@minrows=\count397
+\c@columnbadness=\count398
+\c@finalcolumnbadness=\count399
+\last@try=\dimen358
+\multicolovershoot=\dimen359
+\multicolundershoot=\dimen360
 \mult@nat@firstbox=\box133
 \colbreak@box=\box134
-\mc@col@check@num=\count399
+\mc@col@check@num=\count400
 )
 (C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip69
-\multirow@cntb=\count400
+\multirow@cntb=\count401
 \multirow@dima=\skip70
-\bigstrutjot=\dimen356
+\bigstrutjot=\dimen361
 )
 (C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
@@ -1146,21 +1156,21 @@ Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 (C:\Program Files\MiKTeX\tex/latex/everyshi\everyshi.sty
 Package: everyshi 2020/11/18 v4.00 EveryShipout Package
 )
-\@MXV@page=\count401
-\@MXV@adict=\count402
-\@MXV@aadict=\count403
-\@MXV@includes=\count404
-\@MXV@players=\count405
-\@MXV@links=\count406
-\@MXV@width=\dimen357
-\@MXV@height=\dimen358
-\@MXV@depth=\dimen359
-\@MXV@totalheight=\dimen360
-\@MXV@@boxdepth=\dimen361
-\@MXV@traiselen=\dimen362
-\@MXV@braiselen=\dimen363
-\@MXV@start=\dimen364
-\@MXV@end=\dimen365
+\@MXV@page=\count402
+\@MXV@adict=\count403
+\@MXV@aadict=\count404
+\@MXV@includes=\count405
+\@MXV@players=\count406
+\@MXV@links=\count407
+\@MXV@width=\dimen362
+\@MXV@height=\dimen363
+\@MXV@depth=\dimen364
+\@MXV@totalheight=\dimen365
+\@MXV@@boxdepth=\dimen366
+\@MXV@traiselen=\dimen367
+\@MXV@braiselen=\dimen368
+\@MXV@start=\dimen369
+\@MXV@end=\dimen370
 \@MXV@textbox=\box135
 
 (C:\Program Files\MiKTeX\tex/latex/fp\fp.sty
@@ -1169,19 +1179,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (C:\Program Files\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count407
+\actioncount=\count408
 )
 (C:\Program Files\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count408
-\FP@xia=\count409
-\FP@xib=\count410
-\FP@xfa=\count411
-\FP@xfb=\count412
-\FP@rega=\count413
-\FP@regb=\count414
-\FP@regs=\count415
-\FP@times=\count416
+\FP@xs=\count409
+\FP@xia=\count410
+\FP@xib=\count411
+\FP@xfa=\count412
+\FP@xfb=\count413
+\FP@rega=\count414
+\FP@regb=\count415
+\FP@regs=\count416
+\FP@times=\count417
 )
 (C:\Program Files\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1200,7 +1210,7 @@ Package: fp-pas 1994/08/29
 )
 (C:\Program Files\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count417
+\FPseed=\count418
 )
 (C:\Program Files\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1212,43 +1222,43 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 ))
 \@MXV@@viewsfile=\read6
-\@MXV@viewscount=\count418
-\@MXV@iiidrepeat=\count419
-\@MXV@iiidoncurpage=\count420
-\@MXV@inputlineno=\count421
+\@MXV@viewscount=\count419
+\@MXV@iiidrepeat=\count420
+\@MXV@iiidoncurpage=\count421
+\@MXV@inputlineno=\count422
 )
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
-3.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
+2.
 
 (C:\Program Files\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count422
+\l__color_backend_stack_int=\count423
 \l__pdf_internal_box=\box136
 )
 (D02. Walkthough per React Native.aux)
 \openout1 = `"D02. Walkthough per React Native.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1286,17 +1296,17 @@ LaTeX Font Info:    ... okay on input line 33.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count423
-\scratchdimen=\dimen366
+\scratchcounter=\count424
+\scratchdimen=\dimen371
 \scratchbox=\box137
-\nofMPsegments=\count424
-\nofMParguments=\count425
-\everyMPshowfont=\toks63
-\MPscratchCnt=\count426
-\MPscratchDim=\dimen367
-\MPnumerator=\count427
-\makeMPintoPDFobject=\count428
-\everyMPtoPDFconversion=\toks64
+\nofMPsegments=\count425
+\nofMParguments=\count426
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count427
+\MPscratchDim=\dimen372
+\MPnumerator=\count428
+\makeMPintoPDFobject=\count429
+\everyMPtoPDFconversion=\toks65
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1305,58 +1315,58 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 42.
 
 (D02. Walkthough per React Native.out) (D02. Walkthough per React Native.out)
 \@outlinefile=\write6
 \openout6 = `"D02. Walkthough per React Native.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 33.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 33.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 33.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 33.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 42.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 33.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 42.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 33.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 33.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 42.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 33.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 42.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 33.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 33.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 33.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 42.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 33.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 33.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 33.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 33.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 33.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 33.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 33.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 33.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 33.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 42.
 
 (C:\Program Files\MiKTeX\tex/latex/translator\translator-basic-dictionary-Engli
 sh.dict
@@ -1382,71 +1392,71 @@ Dictionary: translator-numbers-dictionary, Language: English
 lish.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \l on input line 33.
-LaTeX Info: Redefining \L on input line 33.
+LaTeX Info: Redefining \l on input line 42.
+LaTeX Info: Redefining \L on input line 42.
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-33.
+42.
  (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-3.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+2.
 
 (C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-33.
+42.
 
 (C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-33.
+42.
 
 (C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 33.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+(Font)              <6> on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 33
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 42
 .
 
 (C:\Program Files\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
-Package xypdf Info: Line width: 0.39998pt on input line 33.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 42.
+Package xypdf Info: Line width: 0.39998pt on input line 42.
 
 (D02. Walkthough per React Native.nav)
-<LogoInstitut.png, id=92, 593.3367pt x 55.6479pt>
+<LogoInstitut.png, id=114, 593.3367pt x 55.6479pt>
 File: LogoInstitut.png Graphic file (type png)
 <use LogoInstitut.png>
-Package pdftex.def Info: LogoInstitut.png  used on input line 36.
+Package pdftex.def Info: LogoInstitut.png  used on input line 45.
 (pdftex.def)             Requested size: 296.66762pt x 27.82387pt.
 
-Overfull \hbox (5.37775pt too wide) in paragraph at lines 36--36
+Overfull \hbox (5.37775pt too wide) in paragraph at lines 45--45
  [][]  
  []
 
@@ -1454,656 +1464,769 @@ Overfull \hbox (5.37775pt too wide) in paragraph at lines 36--36
 les/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
  <./LogoInstitut.png>]
-<Inicio.png, id=141, 1434.86063pt x 771.63281pt>
+<Inicio.png, id=166, 1434.86063pt x 771.63281pt>
 File: Inicio.png Graphic file (type png)
 <use Inicio.png>
-Package pdftex.def Info: Inicio.png  used on input line 45.
+Package pdftex.def Info: Inicio.png  used on input line 54.
 (pdftex.def)             Requested size: 312.9803pt x 168.31152pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 45--45
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 54--54
  [][] 
  []
 
 [2
 
  <./Inicio.png>]
-<ProjectDefault01.png, id=192, 635.37375pt x 691.08188pt>
+<ProjectDefault01.png, id=219, 635.37375pt x 691.08188pt>
 File: ProjectDefault01.png Graphic file (type png)
 <use ProjectDefault01.png>
-Package pdftex.def Info: ProjectDefault01.png  used on input line 50.
+Package pdftex.def Info: ProjectDefault01.png  used on input line 59.
 (pdftex.def)             Requested size: 209.26678pt x 227.62204pt.
 
-Overfull \vbox (6.50772pt too high) detected at line 50
+Overfull \vbox (6.50772pt too high) detected at line 59
  []
 
 [3
 
  <./ProjectDefault01.png>]
-<ProjectDefault02.png, id=237, 948.54375pt x 651.18282pt>
+<ProjectDefault02.png, id=266, 948.54375pt x 651.18282pt>
 File: ProjectDefault02.png Graphic file (type png)
 <use ProjectDefault02.png>
-Package pdftex.def Info: ProjectDefault02.png  used on input line 55.
+Package pdftex.def Info: ProjectDefault02.png  used on input line 64.
 (pdftex.def)             Requested size: 284.52756pt x 195.32654pt.
  [4
 
  <./ProjectDefault02.png>]
-<ProjectDefault03.png, id=284, 953.81343pt x 669.2503pt>
+<ProjectDefault03.png, id=315, 953.81343pt x 669.2503pt>
 File: ProjectDefault03.png Graphic file (type png)
 <use ProjectDefault03.png>
-Package pdftex.def Info: ProjectDefault03.png  used on input line 59.
+Package pdftex.def Info: ProjectDefault03.png  used on input line 68.
 (pdftex.def)             Requested size: 284.52756pt x 199.64311pt.
  [5
 
  <./ProjectDefault03.png>]
-<ProjectDefault04.png, id=329, 954.56625pt x 744.53156pt>
+<ProjectDefault04.png, id=362, 954.56625pt x 744.53156pt>
 File: ProjectDefault04.png Graphic file (type png)
 <use ProjectDefault04.png>
-Package pdftex.def Info: ProjectDefault04.png  used on input line 63.
+Package pdftex.def Info: ProjectDefault04.png  used on input line 72.
 (pdftex.def)             Requested size: 284.52756pt x 221.91838pt.
 
-Overfull \vbox (0.80406pt too high) detected at line 63
+Overfull \vbox (0.80406pt too high) detected at line 72
  []
 
 [6
 
  <./ProjectDefault04.png>]
-<ProjectDefault05.png, id=374, 630.85687pt x 567.62062pt>
+<ProjectDefault05.png, id=409, 630.85687pt x 567.62062pt>
 File: ProjectDefault05.png Graphic file (type png)
 <use ProjectDefault05.png>
-Package pdftex.def Info: ProjectDefault05.png  used on input line 68.
+Package pdftex.def Info: ProjectDefault05.png  used on input line 77.
 (pdftex.def)             Requested size: 199.16928pt x 179.19984pt.
  [7
 
  <./ProjectDefault05.png>]
-<ProjectDefault06.png, id=420, 947.79094pt x 613.54219pt>
+<ProjectDefault06.png, id=457, 947.79094pt x 613.54219pt>
 File: ProjectDefault06.png Graphic file (type png)
 <use ProjectDefault06.png>
-Package pdftex.def Info: ProjectDefault06.png  used on input line 73.
+Package pdftex.def Info: ProjectDefault06.png  used on input line 82.
 (pdftex.def)             Requested size: 284.52756pt x 184.18578pt.
  [8
 
  <./ProjectDefault06.png>]
-<ProjectDefault07.png, id=466, 953.81343pt x 615.0478pt>
+<ProjectDefault07.png, id=505, 953.81343pt x 615.0478pt>
 File: ProjectDefault07.png Graphic file (type png)
 <use ProjectDefault07.png>
-Package pdftex.def Info: ProjectDefault07.png  used on input line 77.
+Package pdftex.def Info: ProjectDefault07.png  used on input line 86.
 (pdftex.def)             Requested size: 284.52756pt x 183.47404pt.
  [9
 
  <./ProjectDefault07.png>]
-<ProjectDefault09.png, id=512, 946.28531pt x 610.53094pt>
+<ProjectDefault09.png, id=553, 946.28531pt x 610.53094pt>
 File: ProjectDefault09.png Graphic file (type png)
 <use ProjectDefault09.png>
-Package pdftex.def Info: ProjectDefault09.png  used on input line 81.
+Package pdftex.def Info: ProjectDefault09.png  used on input line 90.
 (pdftex.def)             Requested size: 284.52756pt x 183.57059pt.
  [10
 
  <./ProjectDefault09.png>]
-<ProjectDefault08.png, id=557, 946.28531pt x 619.56468pt>
+<ProjectDefault08.png, id=600, 946.28531pt x 619.56468pt>
 File: ProjectDefault08.png Graphic file (type png)
 <use ProjectDefault08.png>
-Package pdftex.def Info: ProjectDefault08.png  used on input line 85.
+Package pdftex.def Info: ProjectDefault08.png  used on input line 94.
 (pdftex.def)             Requested size: 284.52756pt x 186.28679pt.
  [11
 
  <./ProjectDefault08.png>]
-<SnackExpoDev.png, id=602, 963.6pt x 776.9025pt>
+<SnackExpoDev.png, id=647, 963.6pt x 776.9025pt>
 File: SnackExpoDev.png Graphic file (type png)
 <use SnackExpoDev.png>
-Package pdftex.def Info: SnackExpoDev.png  used on input line 91.
+Package pdftex.def Info: SnackExpoDev.png  used on input line 100.
 (pdftex.def)             Requested size: 284.52756pt x 229.39763pt.
 
-Overfull \vbox (8.28331pt too high) detected at line 91
+Overfull \vbox (8.28331pt too high) detected at line 100
  []
 
 [12
 
  <./SnackExpoDev.png>]
-<ProjectBlank01.png, id=652, 472.01344pt x 30.1125pt>
+<ProjectBlank01.png, id=699, 472.01344pt x 30.1125pt>
 File: ProjectBlank01.png Graphic file (type png)
 <use ProjectBlank01.png>
-Package pdftex.def Info: ProjectBlank01.png  used on input line 99.
+Package pdftex.def Info: ProjectBlank01.png  used on input line 108.
 (pdftex.def)             Requested size: 284.52756pt x 18.1517pt.
  [13
 
  <./ProjectBlank01.png>]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-13.
+22.
 
 (C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [14
 
 ]
-<TemplatePersonalizadoGitHub.png, id=749, 443.40656pt x 17.31468pt>
+<TemplatePersonalizadoGitHub.png, id=800, 443.40656pt x 17.31468pt>
 File: TemplatePersonalizadoGitHub.png Graphic file (type png)
 <use TemplatePersonalizadoGitHub.png>
-Package pdftex.def Info: TemplatePersonalizadoGitHub.png  used on input line 12
-3.
+Package pdftex.def Info: TemplatePersonalizadoGitHub.png  used on input line 13
+2.
 (pdftex.def)             Requested size: 284.52756pt x 11.11119pt.
  [15
 
  <./TemplatePersonalizadoGitHub.png>]
-<ProjectBlank02.png, id=795, 910.90312pt x 764.8575pt>
+<ProjectBlank02.png, id=848, 910.90312pt x 764.8575pt>
 File: ProjectBlank02.png Graphic file (type png)
 <use ProjectBlank02.png>
-Package pdftex.def Info: ProjectBlank02.png  used on input line 127.
+Package pdftex.def Info: ProjectBlank02.png  used on input line 136.
 (pdftex.def)             Requested size: 256.0748pt x 215.02226pt.
  [16
 
  <./ProjectBlank02.png>]
-<ProjectBlank03.png, id=841, 809.27344pt x 448.67625pt>
+<ProjectBlank03.png, id=896, 809.27344pt x 448.67625pt>
 File: ProjectBlank03.png Graphic file (type png)
 <use ProjectBlank03.png>
-Package pdftex.def Info: ProjectBlank03.png  used on input line 131.
+Package pdftex.def Info: ProjectBlank03.png  used on input line 140.
 (pdftex.def)             Requested size: 312.9803pt x 173.52478pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 131--131
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 140--140
  [][] 
  []
 
 [17
 
  <./ProjectBlank03.png>]
-<ProjectBlank05.png, id=887, 626.34pt x 357.58594pt>
+<ProjectBlank05.png, id=944, 626.34pt x 357.58594pt>
 File: ProjectBlank05.png Graphic file (type png)
 <use ProjectBlank05.png>
-Package pdftex.def Info: ProjectBlank05.png  used on input line 135.
+Package pdftex.def Info: ProjectBlank05.png  used on input line 144.
 (pdftex.def)             Requested size: 312.9803pt x 178.68884pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 135--135
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 144--144
  [][] 
  []
 
 [18
 
  <./ProjectBlank05.png>]
-<ProjectBlank06.png, id=932, 1065.22969pt x 370.38374pt>
+<ProjectBlank06.png, id=991, 1065.22969pt x 370.38374pt>
 File: ProjectBlank06.png Graphic file (type png)
 <use ProjectBlank06.png>
-Package pdftex.def Info: ProjectBlank06.png  used on input line 142.
+Package pdftex.def Info: ProjectBlank06.png  used on input line 151.
 (pdftex.def)             Requested size: 312.9803pt x 108.82143pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 142--142
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 151--151
  [][] 
  []
 
 [19
 
- <./ProjectBlank06.png>] [20
+ <./ProjectBlank06.png>]
+Overfull \hbox (8.0pt too wide) in alignment at lines 190--190
+[][] 
+ []
+
+[20
 
 ] [21
 
 ]
-<ProjectBlank07.png, id=1067, 885.3075pt x 652.68843pt>
+<ProjectBlank07.png, id=1212, 885.3075pt x 652.68843pt>
 File: ProjectBlank07.png Graphic file (type png)
 <use ProjectBlank07.png>
-Package pdftex.def Info: ProjectBlank07.png  used on input line 178.
-(pdftex.def)             Requested size: 284.52756pt x 209.77084pt.
- [22
+Package pdftex.def Info: ProjectBlank07.png  used on input line 210.
+(pdftex.def)             Requested size: 312.9803pt x 230.74495pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 210--210
+ [][] 
+ []
+
+
+Overfull \vbox (9.63063pt too high) detected at line 210
+ []
+
+[22
 
  <./ProjectBlank07.png>]
-<ProjectBlank31.png, id=1113, 1133.73563pt x 547.2947pt>
+<ProjectBlank31.png, id=1259, 1133.73563pt x 547.2947pt>
 File: ProjectBlank31.png Graphic file (type png)
 <use ProjectBlank31.png>
-Package pdftex.def Info: ProjectBlank31.png  used on input line 185.
+Package pdftex.def Info: ProjectBlank31.png  used on input line 218.
 (pdftex.def)             Requested size: 312.9803pt x 151.0869pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 185--185
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 218--218
  [][] 
  []
 
 [23
 
  <./ProjectBlank31.png>]
-<ProjectBlank30.png, id=1159, 1163.0953pt x 506.6428pt>
+<ProjectBlank30.png, id=1307, 1163.0953pt x 506.6428pt>
 File: ProjectBlank30.png Graphic file (type png)
 <use ProjectBlank30.png>
-Package pdftex.def Info: ProjectBlank30.png  used on input line 195.
+Package pdftex.def Info: ProjectBlank30.png  used on input line 229.
 (pdftex.def)             Requested size: 312.9803pt x 136.33154pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 195--195
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 229--229
  [][] 
  []
 
 [24
 
- <./ProjectBlank30.png>]
-<ProjectBlank33.png, id=1205, 888.31876pt x 642.14906pt>
+ <./ProjectBlank30.png>] [25
+
+]
+<ProjectBlank33.png, id=1402, 888.31876pt x 642.14906pt>
 File: ProjectBlank33.png Graphic file (type png)
 <use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 202.
-(pdftex.def)             Requested size: 256.0748pt x 185.11124pt.
+Package pdftex.def Info: ProjectBlank33.png  used on input line 250.
+(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
 
-Overfull \vbox (4.0467pt too high) detected at line 202
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 250--250
+ [][] 
  []
 
-[25
 
- <./ProjectBlank33.png>]
-<ProjectBlank32.png, id=1252, 1209.76968pt x 533.74406pt>
-File: ProjectBlank32.png Graphic file (type png)
-<use ProjectBlank32.png>
-Package pdftex.def Info: ProjectBlank32.png  used on input line 210.
-(pdftex.def)             Requested size: 312.9803pt x 138.08606pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 210--210
- [][] 
+Overfull \vbox (5.13057pt too high) detected at line 250
  []
 
 [26
 
- <./ProjectBlank32.png>] [27
+ <./ProjectBlank33.png>]
+<ProjectBlank32.png, id=1449, 1209.76968pt x 533.74406pt>
+File: ProjectBlank32.png Graphic file (type png)
+<use ProjectBlank32.png>
+Package pdftex.def Info: ProjectBlank32.png  used on input line 259.
+(pdftex.def)             Requested size: 312.9803pt x 138.08606pt.
 
-]
-<ProjectBlank34.png, id=1342, 1063.72406pt x 587.19376pt>
-File: ProjectBlank34.png Graphic file (type png)
-<use ProjectBlank34.png>
-Package pdftex.def Info: ProjectBlank34.png  used on input line 230.
-(pdftex.def)             Requested size: 312.9803pt x 172.7637pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 230--230
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 259--259
  [][] 
  []
 
+[27
 
-Overfull \vbox (6.42136pt too high) detected at line 230
+ <./ProjectBlank32.png>]
+<ProjectBlank37.png, id=1497, 871.00406pt x 296.60812pt>
+File: ProjectBlank37.png Graphic file (type png)
+<use ProjectBlank37.png>
+Package pdftex.def Info: ProjectBlank37.png  used on input line 272.
+(pdftex.def)             Requested size: 312.9803pt x 106.5797pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 272--272
+ [][] 
  []
 
 [28
 
- <./ProjectBlank34.png>]
+ <./ProjectBlank37.png>]
+<ProjectBlank34.png, id=1545, 1063.72406pt x 587.19376pt>
 File: ProjectBlank34.png Graphic file (type png)
 <use ProjectBlank34.png>
-Package pdftex.def Info: ProjectBlank34.png  used on input line 241.
+Package pdftex.def Info: ProjectBlank34.png  used on input line 284.
 (pdftex.def)             Requested size: 312.9803pt x 172.7637pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 241--241
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 284--284
  [][] 
  []
 
 
-Overfull \vbox (67.42136pt too high) detected at line 241
+Overfull \vbox (6.42136pt too high) detected at line 284
  []
 
 [29
 
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 252.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+ <./ProjectBlank34.png>] [30
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 252--252
+]
+<ProjectBlank35.png, id=1639, 847.66687pt x 620.3175pt>
+File: ProjectBlank35.png Graphic file (type png)
+<use ProjectBlank35.png>
+Package pdftex.def Info: ProjectBlank35.png  used on input line 301.
+(pdftex.def)             Requested size: 312.9803pt x 229.03116pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 301--301
  [][] 
  []
 
 
-Overfull \vbox (79.73586pt too high) detected at line 252
- []
-
-[30
-
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 263.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 263--263
- [][] 
- []
-
-
-Overfull \vbox (81.56952pt too high) detected at line 263
+Overfull \vbox (7.91684pt too high) detected at line 301
  []
 
 [31
 
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 274.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 274--274
- [][] 
- []
-
-
-Overfull \vbox (107.5692pt too high) detected at line 274
- []
-
-[32
+ <./ProjectBlank35.png>] [32
 
 ]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 286.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+<ProjectBlank36.png, id=1733, 572.1375pt x 671.50874pt>
+File: ProjectBlank36.png Graphic file (type png)
+<use ProjectBlank36.png>
+Package pdftex.def Info: ProjectBlank36.png  used on input line 322.
+(pdftex.def)             Requested size: 199.16928pt x 233.76103pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 286--286
- [][] 
- []
-
-
-Overfull \vbox (108.73586pt too high) detected at line 286
+Overfull \vbox (12.64671pt too high) detected at line 322
  []
 
 [33
 
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 298.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+ <./ProjectBlank36.png>]
+<ProjectBlank38.png, id=1780, 332.74312pt x 727.96968pt>
+File: ProjectBlank38.png Graphic file (type png)
+<use ProjectBlank38.png>
+Package pdftex.def Info: ProjectBlank38.png  used on input line 326.
+(pdftex.def)             Requested size: 143.06151pt x 312.9803pt.
+<ProjectBlank39.png, id=1781, 337.26pt x 726.46407pt>
+File: ProjectBlank39.png Graphic file (type png)
+<use ProjectBlank39.png>
+Package pdftex.def Info: ProjectBlank39.png  used on input line 326.
+(pdftex.def)             Requested size: 145.302pt x 312.9803pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 298--298
- [][] 
- []
-
-
-Overfull \vbox (80.40286pt too high) detected at line 298
+Overfull \vbox (91.86598pt too high) detected at line 326
  []
 
 [34
 
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 310.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+ <./ProjectBlank38.png> <./ProjectBlank39.png>] [35
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 310--310
+]
+<ProjectBlank40.png, id=1879, 869.49844pt x 621.82312pt>
+File: ProjectBlank40.png Graphic file (type png)
+<use ProjectBlank40.png>
+Package pdftex.def Info: ProjectBlank40.png  used on input line 352.
+(pdftex.def)             Requested size: 312.9803pt x 223.82768pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 352--352
  [][] 
  []
 
 
-Overfull \vbox (94.90254pt too high) detected at line 310
- []
-
-[35
-
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 322.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 322--322
- [][] 
- []
-
-
-Overfull \vbox (94.90286pt too high) detected at line 322
+Overfull \vbox (2.71336pt too high) detected at line 352
  []
 
 [36
 
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 334.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 334--334
- [][] 
- []
-
-
-Overfull \vbox (94.23586pt too high) detected at line 334
- []
-
-[37
+ <./ProjectBlank40.png>] [37
 
 ]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 346.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
+<ProjectBlank42.png, id=1973, 612.03656pt x 517.18219pt>
+File: ProjectBlank42.png Graphic file (type png)
+<use ProjectBlank42.png>
+Package pdftex.def Info: ProjectBlank42.png  used on input line 367.
+(pdftex.def)             Requested size: 256.0748pt x 216.38641pt.
+ [38
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 346--346
- [][] 
- []
+ <./ProjectBlank42.png>]
+<ProjectBlank44.png, id=2020, 340.27126pt x 729.47531pt>
+File: ProjectBlank44.png Graphic file (type png)
+<use ProjectBlank44.png>
+Package pdftex.def Info: ProjectBlank44.png  used on input line 371.
+(pdftex.def)             Requested size: 106.17354pt x 227.62204pt.
+<ProjectBlank45.png, id=2021, 341.02406pt x 722.7pt>
+File: ProjectBlank45.png Graphic file (type png)
+<use ProjectBlank45.png>
+Package pdftex.def Info: ProjectBlank45.png  used on input line 371.
+(pdftex.def)             Requested size: 107.40753pt x 227.62204pt.
 
-
-Overfull \vbox (79.73586pt too high) detected at line 346
- []
-
-[38
-
-]
-File: ProjectBlank33.png Graphic file (type png)
-<use ProjectBlank33.png>
-Package pdftex.def Info: ProjectBlank33.png  used on input line 358.
-(pdftex.def)             Requested size: 312.9803pt x 226.24489pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 358--358
- [][] 
- []
-
-
-Overfull \vbox (94.90286pt too high) detected at line 358
+Overfull \vbox (6.50772pt too high) detected at line 371
  []
 
 [39
 
-]
-<ProjectBlank08.png, id=1872, 1507.88344pt x 692.5875pt>
-File: ProjectBlank08.png Graphic file (type png)
-<use ProjectBlank08.png>
-Package pdftex.def Info: ProjectBlank08.png  used on input line 366.
-(pdftex.def)             Requested size: 284.52756pt x 130.68414pt.
- [40
-
- <./ProjectBlank08.png>]
-<ProjectBlank13.png, id=1919, 901.11656pt x 647.41875pt>
-File: ProjectBlank13.png Graphic file (type png)
-<use ProjectBlank13.png>
-Package pdftex.def Info: ProjectBlank13.png  used on input line 370.
-(pdftex.def)             Requested size: 284.52756pt x 204.42204pt.
- [41
-
- <./ProjectBlank13.png>] [42
-
-] [43
+ <./ProjectBlank44.png> <./ProjectBlank45.png>] [40
 
 ]
-<ProjectBlank14.png, id=2058, 898.85812pt x 648.92438pt>
-File: ProjectBlank14.png Graphic file (type png)
-<use ProjectBlank14.png>
-Package pdftex.def Info: ProjectBlank14.png  used on input line 405.
-(pdftex.def)             Requested size: 284.52756pt x 205.41234pt.
- [44
+<ProjectBlank43.png, id=2115, 826.58812pt x 724.20563pt>
+File: ProjectBlank43.png Graphic file (type png)
+<use ProjectBlank43.png>
+Package pdftex.def Info: ProjectBlank43.png  used on input line 386.
+(pdftex.def)             Requested size: 256.0748pt x 224.35776pt.
 
- <./ProjectBlank14.png>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 421.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 421.
- [45
+Overfull \vbox (3.24344pt too high) detected at line 386
+ []
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<ProjectBlank15.png, id=2149, 1015.54407pt x 874.76813pt>
-File: ProjectBlank15.png Graphic file (type png)
-<use ProjectBlank15.png>
-Package pdftex.def Info: ProjectBlank15.png  used on input line 425.
-(pdftex.def)             Requested size: 284.52756pt x 245.08023pt.
+[41
 
-Overfull \vbox (23.96591pt too high) detected at line 425
+ <./ProjectBlank43.png>] [42
+
+]
+<ProjectBlank41.png, id=2208, 874.76813pt x 623.32875pt>
+File: ProjectBlank41.png Graphic file (type png)
+<use ProjectBlank41.png>
+Package pdftex.def Info: ProjectBlank41.png  used on input line 415.
+(pdftex.def)             Requested size: 312.9803pt x 223.01904pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 415--415
+ [][] 
+ []
+
+
+Overfull \vbox (1.90472pt too high) detected at line 415
+ []
+
+[43
+
+ <./ProjectBlank41.png>] [44
+
+]
+<ProjectBlank46.png, id=2302, 539.76656pt x 571.38469pt>
+File: ProjectBlank46.png Graphic file (type png)
+<use ProjectBlank46.png>
+Package pdftex.def Info: ProjectBlank46.png  used on input line 429.
+(pdftex.def)             Requested size: 256.0748pt x 271.07924pt.
+
+Overfull \vbox (49.96492pt too high) detected at line 429
+ []
+
+[45
+
+ <./ProjectBlank46.png>]
+<ProjectBlank47.png, id=2349, 338.76563pt x 721.94719pt>
+File: ProjectBlank47.png Graphic file (type png)
+<use ProjectBlank47.png>
+Package pdftex.def Info: ProjectBlank47.png  used on input line 433.
+(pdftex.def)             Requested size: 106.80994pt x 227.62204pt.
+<ProjectBlank48.png, id=2350, 341.02406pt x 726.46407pt>
+File: ProjectBlank48.png Graphic file (type png)
+<use ProjectBlank48.png>
+Package pdftex.def Info: ProjectBlank48.png  used on input line 433.
+(pdftex.def)             Requested size: 106.85074pt x 227.62204pt.
+
+Overfull \vbox (6.50772pt too high) detected at line 433
  []
 
 [46
 
- <./ProjectBlank15.png>] [47
+ <./ProjectBlank47.png> <./ProjectBlank48.png>] [47
 
 ]
-<ProjectBlank16.png, id=2239, 893.58844pt x 645.91313pt>
-File: ProjectBlank16.png Graphic file (type png)
-<use ProjectBlank16.png>
-Package pdftex.def Info: ProjectBlank16.png  used on input line 446.
-(pdftex.def)             Requested size: 284.52756pt x 205.66156pt.
- [48
+<ProjectBlank49.png, id=2444, 526.96875pt x 554.07pt>
+File: ProjectBlank49.png Graphic file (type png)
+<use ProjectBlank49.png>
+Package pdftex.def Info: ProjectBlank49.png  used on input line 454.
+(pdftex.def)             Requested size: 213.39566pt x 224.37175pt.
 
- <./ProjectBlank16.png>] [49
+Overfull \vbox (3.25743pt too high) detected at line 454
+ []
+
+[48
+
+ <./ProjectBlank49.png>]
+<ProjectBlank51.png, id=2491, 336.50719pt x 718.18312pt>
+File: ProjectBlank51.png Graphic file (type png)
+<use ProjectBlank51.png>
+Package pdftex.def Info: ProjectBlank51.png  used on input line 458.
+(pdftex.def)             Requested size: 106.65242pt x 227.62204pt.
+<ProjectBlank50.png, id=2492, 336.50719pt x 720.44156pt>
+File: ProjectBlank50.png Graphic file (type png)
+<use ProjectBlank50.png>
+Package pdftex.def Info: ProjectBlank50.png  used on input line 458.
+(pdftex.def)             Requested size: 106.31866pt x 227.62204pt.
+
+Overfull \vbox (6.50772pt too high) detected at line 458
+ []
+
+[49
+
+ <./ProjectBlank51.png> <./ProjectBlank50.png>] [50
 
 ]
-<ProjectBlank17.png, id=2329, 897.3525pt x 645.91313pt>
-File: ProjectBlank17.png Graphic file (type png)
-<use ProjectBlank17.png>
-Package pdftex.def Info: ProjectBlank17.png  used on input line 463.
-(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
- [50
+<ProjectBlank52.png, id=2587, 898.10532pt x 645.91313pt>
+File: ProjectBlank52.png Graphic file (type png)
+<use ProjectBlank52.png>
+Package pdftex.def Info: ProjectBlank52.png  used on input line 479.
+(pdftex.def)             Requested size: 284.52756pt x 204.6267pt.
+ [51
 
- <./ProjectBlank17.png>] [51
-
-] [52
+ <./ProjectBlank52.png>] [52
 
 ]
-<ProjectBlank09.png, id=2462, 889.07156pt x 648.17157pt>
-File: ProjectBlank09.png Graphic file (type png)
-<use ProjectBlank09.png>
-Package pdftex.def Info: ProjectBlank09.png  used on input line 484.
-(pdftex.def)             Requested size: 284.52756pt x 207.42903pt.
- [53
+<ProjectBlank53.png, id=2679, 883.80188pt x 644.4075pt>
+File: ProjectBlank53.png Graphic file (type png)
+<use ProjectBlank53.png>
+Package pdftex.def Info: ProjectBlank53.png  used on input line 498.
+(pdftex.def)             Requested size: 312.9803pt x 228.20087pt.
 
- <./ProjectBlank09.png>] [54
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 498--498
+ [][] 
+ []
 
-]
-<ProjectBlank10.png, id=2552, 889.07156pt x 644.4075pt>
-File: ProjectBlank10.png Graphic file (type png)
-<use ProjectBlank10.png>
-Package pdftex.def Info: ProjectBlank10.png  used on input line 499.
-(pdftex.def)             Requested size: 284.52756pt x 206.22444pt.
+
+Overfull \vbox (7.08655pt too high) detected at line 498
+ []
+
+[53
+
+ <./ProjectBlank53.png>]
+<ProjectBlank08.png, id=2725, 1507.88344pt x 692.5875pt>
+File: ProjectBlank08.png Graphic file (type png)
+<use ProjectBlank08.png>
+Package pdftex.def Info: ProjectBlank08.png  used on input line 506.
+(pdftex.def)             Requested size: 284.52756pt x 130.68414pt.
+ [54
+
+ <./ProjectBlank08.png>]
+<ProjectBlank13.png, id=2774, 901.11656pt x 647.41875pt>
+File: ProjectBlank13.png Graphic file (type png)
+<use ProjectBlank13.png>
+Package pdftex.def Info: ProjectBlank13.png  used on input line 510.
+(pdftex.def)             Requested size: 284.52756pt x 204.42204pt.
  [55
 
- <./ProjectBlank10.png>] [56
+ <./ProjectBlank13.png>] [56
+
+] [57
 
 ]
-<ProjectBlank11.png, id=2643, 897.3525pt x 645.91313pt>
-File: ProjectBlank11.png Graphic file (type png)
-<use ProjectBlank11.png>
-Package pdftex.def Info: ProjectBlank11.png  used on input line 516.
-(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
- [57
+<ProjectBlank14.png, id=2915, 898.85812pt x 648.92438pt>
+File: ProjectBlank14.png Graphic file (type png)
+<use ProjectBlank14.png>
+Package pdftex.def Info: ProjectBlank14.png  used on input line 544.
+(pdftex.def)             Requested size: 284.52756pt x 205.41234pt.
+ [58
 
- <./ProjectBlank11.png>] [58
-
-]
-<ProjectBlank12.png, id=2732, 880.79062pt x 656.4525pt>
-File: ProjectBlank12.png Graphic file (type png)
-<use ProjectBlank12.png>
-Package pdftex.def Info: ProjectBlank12.png  used on input line 532.
-(pdftex.def)             Requested size: 284.52756pt x 212.05238pt.
+ <./ProjectBlank14.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 560.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 560.
  [59
 
- <./ProjectBlank12.png>]
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<ProjectBlank15.png, id=3009, 1015.54407pt x 874.76813pt>
+File: ProjectBlank15.png Graphic file (type png)
+<use ProjectBlank15.png>
+Package pdftex.def Info: ProjectBlank15.png  used on input line 563.
+(pdftex.def)             Requested size: 284.52756pt x 245.08023pt.
+
+Overfull \vbox (23.96591pt too high) detected at line 563
+ []
+
 [60
 
-]
-<ProjectBlank18.png, id=2825, 843.15pt x 681.29532pt>
-File: ProjectBlank18.png Graphic file (type png)
-<use ProjectBlank18.png>
-Package pdftex.def Info: ProjectBlank18.png  used on input line 547.
-(pdftex.def)             Requested size: 284.52756pt x 229.91165pt.
-
-Overfull \vbox (8.79733pt too high) detected at line 547
- []
-
-[61
-
- <./ProjectBlank18.png>]
-Overfull \vbox (0.81174pt too high) detected at line 560
- []
-
-[62
+ <./ProjectBlank15.png>] [61
 
 ]
-<ProjectBlank19.png, id=2915, 785.18344pt x 621.07031pt>
-File: ProjectBlank19.png Graphic file (type png)
-<use ProjectBlank19.png>
-Package pdftex.def Info: ProjectBlank19.png  used on input line 564.
-(pdftex.def)             Requested size: 284.52756pt x 225.0635pt.
+<ProjectBlank16.png, id=3103, 893.58844pt x 645.91313pt>
+File: ProjectBlank16.png Graphic file (type png)
+<use ProjectBlank16.png>
+Package pdftex.def Info: ProjectBlank16.png  used on input line 583.
+(pdftex.def)             Requested size: 284.52756pt x 205.66156pt.
+ [62
 
-Overfull \vbox (3.94919pt too high) detected at line 564
- []
+ <./ProjectBlank16.png>] [63
 
-[63
-
- <./ProjectBlank19.png>]
-<ProjectBlank20.png, id=2960, 482.55281pt x 534.49687pt>
-File: ProjectBlank20.png Graphic file (type png)
-<use ProjectBlank20.png>
-Package pdftex.def Info: ProjectBlank20.png  used on input line 574.
-(pdftex.def)             Requested size: 141.28418pt x 156.49014pt.
-<ProjectBlank21.png, id=2961, 335.75438pt x 721.94719pt>
-File: ProjectBlank21.png Graphic file (type png)
-<use ProjectBlank21.png>
-Package pdftex.def Info: ProjectBlank21.png  used on input line 574.
-(pdftex.def)             Requested size: 72.77495pt x 156.49014pt.
-<ProjectBlank22.png, id=2962, 338.76563pt x 723.45282pt>
-File: ProjectBlank22.png Graphic file (type png)
-<use ProjectBlank22.png>
-Package pdftex.def Info: ProjectBlank22.png  used on input line 574.
-(pdftex.def)             Requested size: 73.27773pt x 156.49014pt.
+]
+<ProjectBlank17.png, id=3195, 897.3525pt x 645.91313pt>
+File: ProjectBlank17.png Graphic file (type png)
+<use ProjectBlank17.png>
+Package pdftex.def Info: ProjectBlank17.png  used on input line 599.
+(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
  [64
 
- <./ProjectBlank20.png> <./ProjectBlank21.png> <./ProjectBlank22.png>]
-<ProjectBlank23.png, id=3010, 505.89pt x 691.83469pt>
-File: ProjectBlank23.png Graphic file (type png)
-<use ProjectBlank23.png>
-Package pdftex.def Info: ProjectBlank23.png  used on input line 580.
-(pdftex.def)             Requested size: 114.43015pt x 156.49014pt.
-<ProjectBlank24.png, id=3011, 340.27126pt x 724.20563pt>
-File: ProjectBlank24.png Graphic file (type png)
-<use ProjectBlank24.png>
-Package pdftex.def Info: ProjectBlank24.png  used on input line 580.
-(pdftex.def)             Requested size: 73.52553pt x 156.49014pt.
-<ProjectBlank25.png, id=3012, 336.50719pt x 722.7pt>
-File: ProjectBlank25.png Graphic file (type png)
-<use ProjectBlank25.png>
-Package pdftex.def Info: ProjectBlank25.png  used on input line 580.
-(pdftex.def)             Requested size: 72.86623pt x 156.49014pt.
- [65
+ <./ProjectBlank17.png>] [65
 
- <./ProjectBlank23.png> <./ProjectBlank24.png> <./ProjectBlank25.png>]
-<ProjectBlank27.png, id=3059, 696.35156pt x 440.39531pt>
-File: ProjectBlank27.png Graphic file (type png)
-<use ProjectBlank27.png>
-Package pdftex.def Info: ProjectBlank27.png  used on input line 589.
-(pdftex.def)             Requested size: 256.0748pt x 161.94916pt.
- [66
+] [66
 
- <./ProjectBlank27.png>]
-<ProjectBlank26.png, id=3105, 700.86844pt x 539.01375pt>
-File: ProjectBlank26.png Graphic file (type png)
-<use ProjectBlank26.png>
-Package pdftex.def Info: ProjectBlank26.png  used on input line 593.
-(pdftex.def)             Requested size: 256.0748pt x 196.93988pt.
+]
+<ProjectBlank09.png, id=3333, 889.07156pt x 648.17157pt>
+File: ProjectBlank09.png Graphic file (type png)
+<use ProjectBlank09.png>
+Package pdftex.def Info: ProjectBlank09.png  used on input line 619.
+(pdftex.def)             Requested size: 284.52756pt x 207.42903pt.
  [67
 
- <./ProjectBlank26.png>]
-<ProjectBlank28.png, id=3151, 795.72281pt x 537.50812pt>
-File: ProjectBlank28.png Graphic file (type png)
-<use ProjectBlank28.png>
-Package pdftex.def Info: ProjectBlank28.png  used on input line 601.
-(pdftex.def)             Requested size: 256.0748pt x 172.9739pt.
+ <./ProjectBlank09.png>] [68
 
-[68
+]
+<ProjectBlank10.png, id=3427, 889.07156pt x 644.4075pt>
+File: ProjectBlank10.png Graphic file (type png)
+<use ProjectBlank10.png>
+Package pdftex.def Info: ProjectBlank10.png  used on input line 633.
+(pdftex.def)             Requested size: 284.52756pt x 206.22444pt.
+ [69
 
- <./ProjectBlank28.png>]
-<ProjectBlank29.png, id=3196, 797.22844pt x 569.12625pt>
-File: ProjectBlank29.png Graphic file (type png)
-<use ProjectBlank29.png>
-Package pdftex.def Info: ProjectBlank29.png  used on input line 608.
-(pdftex.def)             Requested size: 256.0748pt x 182.80148pt.
+ <./ProjectBlank10.png>] [70
 
-Overfull \vbox (2.90361pt too high) detected at line 608
+]
+<ProjectBlank11.png, id=3520, 897.3525pt x 645.91313pt>
+File: ProjectBlank11.png Graphic file (type png)
+<use ProjectBlank11.png>
+Package pdftex.def Info: ProjectBlank11.png  used on input line 649.
+(pdftex.def)             Requested size: 284.52756pt x 204.79425pt.
+ [71
+
+ <./ProjectBlank11.png>] [72
+
+]
+<ProjectBlank12.png, id=3612, 880.79062pt x 656.4525pt>
+File: ProjectBlank12.png Graphic file (type png)
+<use ProjectBlank12.png>
+Package pdftex.def Info: ProjectBlank12.png  used on input line 664.
+(pdftex.def)             Requested size: 284.52756pt x 212.05238pt.
+ [73
+
+ <./ProjectBlank12.png>]
+[74
+
+]
+<ProjectBlank18.png, id=3710, 843.15pt x 681.29532pt>
+File: ProjectBlank18.png Graphic file (type png)
+<use ProjectBlank18.png>
+Package pdftex.def Info: ProjectBlank18.png  used on input line 678.
+(pdftex.def)             Requested size: 284.52756pt x 229.91165pt.
+
+Overfull \vbox (8.79733pt too high) detected at line 678
  []
 
-[69
+[75
+
+ <./ProjectBlank18.png>]
+Overfull \vbox (0.81174pt too high) detected at line 691
+ []
+
+[76
+
+]
+<ProjectBlank19.png, id=3802, 785.18344pt x 621.07031pt>
+File: ProjectBlank19.png Graphic file (type png)
+<use ProjectBlank19.png>
+Package pdftex.def Info: ProjectBlank19.png  used on input line 694.
+(pdftex.def)             Requested size: 284.52756pt x 225.0635pt.
+
+Overfull \vbox (3.94919pt too high) detected at line 694
+ []
+
+[77
+
+ <./ProjectBlank19.png>]
+<ProjectBlank20.png, id=3848, 482.55281pt x 534.49687pt>
+File: ProjectBlank20.png Graphic file (type png)
+<use ProjectBlank20.png>
+Package pdftex.def Info: ProjectBlank20.png  used on input line 704.
+(pdftex.def)             Requested size: 141.28418pt x 156.49014pt.
+<ProjectBlank21.png, id=3849, 335.75438pt x 721.94719pt>
+File: ProjectBlank21.png Graphic file (type png)
+<use ProjectBlank21.png>
+Package pdftex.def Info: ProjectBlank21.png  used on input line 704.
+(pdftex.def)             Requested size: 72.77495pt x 156.49014pt.
+<ProjectBlank22.png, id=3850, 338.76563pt x 723.45282pt>
+File: ProjectBlank22.png Graphic file (type png)
+<use ProjectBlank22.png>
+Package pdftex.def Info: ProjectBlank22.png  used on input line 704.
+(pdftex.def)             Requested size: 73.27773pt x 156.49014pt.
+ [78
+
+ <./ProjectBlank20.png> <./ProjectBlank21.png> <./ProjectBlank22.png>]
+<ProjectBlank23.png, id=3900, 505.89pt x 691.83469pt>
+File: ProjectBlank23.png Graphic file (type png)
+<use ProjectBlank23.png>
+Package pdftex.def Info: ProjectBlank23.png  used on input line 709.
+(pdftex.def)             Requested size: 114.43015pt x 156.49014pt.
+<ProjectBlank24.png, id=3901, 340.27126pt x 724.20563pt>
+File: ProjectBlank24.png Graphic file (type png)
+<use ProjectBlank24.png>
+Package pdftex.def Info: ProjectBlank24.png  used on input line 709.
+(pdftex.def)             Requested size: 73.52553pt x 156.49014pt.
+<ProjectBlank25.png, id=3902, 336.50719pt x 722.7pt>
+File: ProjectBlank25.png Graphic file (type png)
+<use ProjectBlank25.png>
+Package pdftex.def Info: ProjectBlank25.png  used on input line 709.
+(pdftex.def)             Requested size: 72.86623pt x 156.49014pt.
+ [79
+
+ <./ProjectBlank23.png> <./ProjectBlank24.png> <./ProjectBlank25.png>]
+<ProjectBlank27.png, id=3951, 696.35156pt x 440.39531pt>
+File: ProjectBlank27.png Graphic file (type png)
+<use ProjectBlank27.png>
+Package pdftex.def Info: ProjectBlank27.png  used on input line 718.
+(pdftex.def)             Requested size: 256.0748pt x 161.94916pt.
+ [80
+
+ <./ProjectBlank27.png>]
+<ProjectBlank26.png, id=3999, 700.86844pt x 539.01375pt>
+File: ProjectBlank26.png Graphic file (type png)
+<use ProjectBlank26.png>
+Package pdftex.def Info: ProjectBlank26.png  used on input line 722.
+(pdftex.def)             Requested size: 256.0748pt x 196.93988pt.
+ [81
+
+ <./ProjectBlank26.png>]
+<ProjectBlank28.png, id=4046, 795.72281pt x 537.50812pt>
+File: ProjectBlank28.png Graphic file (type png)
+<use ProjectBlank28.png>
+Package pdftex.def Info: ProjectBlank28.png  used on input line 730.
+(pdftex.def)             Requested size: 256.0748pt x 172.9739pt.
+
+[82
+
+ <./ProjectBlank28.png>]
+<ProjectBlank29.png, id=4093, 797.22844pt x 569.12625pt>
+File: ProjectBlank29.png Graphic file (type png)
+<use ProjectBlank29.png>
+Package pdftex.def Info: ProjectBlank29.png  used on input line 737.
+(pdftex.def)             Requested size: 256.0748pt x 182.80148pt.
+
+Overfull \vbox (2.90361pt too high) detected at line 737
+ []
+
+[83
 
  <./ProjectBlank29.png>]
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
+748.
+ (C:\Program Files\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+[84
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+<Continua01.png, id=4187, 690.32906pt x 29.35968pt>
+File: Continua01.png Graphic file (type png)
+<use Continua01.png>
+Package pdftex.def Info: Continua01.png  used on input line 763.
+(pdftex.def)             Requested size: 284.52756pt x 12.10115pt.
+ [85
+
+ <./Continua01.png>] [86
+
+]
+<Continua02.png, id=4277, 514.92375pt x 207.02344pt>
+File: Continua02.png Graphic file (type png)
+<use Continua02.png>
+Package pdftex.def Info: Continua02.png  used on input line 786.
+(pdftex.def)             Requested size: 312.9803pt x 125.83553pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 786--786
+ [][] 
+ []
+
+[87
+
+ <./Continua02.png>] [88
+
+] [89
+
+] [90
+
+]
 \tf@nav=\write7
 \openout7 = `"D02. Walkthough per React Native.nav"'.
 
@@ -2127,14 +2250,14 @@ L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `"D02. Walkthough per React Native".out' has 
 not changed.
-(rerunfilecheck)             Checksum: A70C18384397CCEB10FCA0DB5A18B08C;4577.
+(rerunfilecheck)             Checksum: 31C6C92C69DFE7A4051B8A259DA607E1;5790.
  ) 
 Here is how much of TeX's memory you used:
- 32318 strings out of 474486
- 603274 string characters out of 5753577
- 1946542 words of memory out of 5000000
- 53634 multiletter control sequences out of 15000+600000
- 611326 words of font info for 88 fonts, out of 8000000 for 9000
+ 32696 strings out of 474486
+ 609861 string characters out of 5753577
+ 1944542 words of memory out of 5000000
+ 53943 multiletter control sequences out of 15000+600000
+ 611706 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,3268b,871s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/M
@@ -2143,10 +2266,10 @@ lic/lm/lmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
 X/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
 lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "D02. Walkthough per React Native.pdf" (69 pages, 13679659 by
+Output written on "D02. Walkthough per React Native.pdf" (90 pages, 15803331 by
 tes).
 PDF statistics:
- 3320 PDF objects out of 3580 (max. 8388607)
- 225 named destinations out of 1000 (max. 500000)
- 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4545 PDF objects out of 5155 (max. 8388607)
+ 286 named destinations out of 1000 (max. 500000)
+ 580 words of extra memory for PDF output out of 10000 (max. 10000000)
 
